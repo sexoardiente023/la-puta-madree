@@ -753,3 +753,48 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [26Feb2025 05:49:24.597] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/52970, l='ServerLevel[world]', x=182.44, y=85.85, z=-351.08] died: Restless Spirit starved to death
 [26Feb2025 05:49:34.996] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/53028, l='ServerLevel[world]', x=213.23, y=138.76, z=-276.33] died: Restless Spirit starved to death
 [26Feb2025 05:51:23.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fassetta02 has made the advancement [Bypassing the Expiration Date]
+[26Feb2025 05:57:17.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fassetta02 has reached the goal [Fighting Nightmares]
+[26Feb2025 05:58:15.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 15KEnzo has made the advancement [Magic Writing]
+[26Feb2025 05:58:31.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 15KEnzo has reached the goal [A self-respecting Soul]
+[26Feb2025 05:59:07.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _valenntinno has made the advancement [A Seedy Place]
+[26Feb2025 06:00:27.803] [Server thread/WARN] [tombstone/]: The death event of the player 15KEnzo was canceled by another mod
+[26Feb2025 06:00:27.811] [Server thread/INFO] [tombstone/]: The player 15KEnzo has successfully been saved
+[26Feb2025 06:00:34.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 15KEnzo was frozen to death by 15KEnzo
+[26Feb2025 06:00:34.466] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for 15KEnzo with unique ID travelersbackpack.standard_26.02.2025-06.00.34.dat
+[26Feb2025 06:00:34.467] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -678 Y: 0 Z: -1445
+[26Feb2025 06:00:34.750] [Server thread/INFO] [tombstone/]: The player 15KEnzo has successfully been saved
+[26Feb2025 06:01:33.656] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=202, y=47, z=211}
+[26Feb2025 06:01:40.169] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-227, y=26, z=-310}
+[26Feb2025 06:01:40.169] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-229, y=26, z=-310}
+[26Feb2025 06:01:40.169] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-232, y=26, z=-312}
+[26Feb2025 06:01:40.169] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-229, y=31, z=-312}
+[26Feb2025 06:01:41.210] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-384, y=31, z=-363}
+[26Feb2025 06:01:41.211] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-231, y=25, z=-315}
+[26Feb2025 06:01:44.265] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-289, y=28, z=-334}
+[26Feb2025 06:01:44.265] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-298, y=28, z=-334}
+[26Feb2025 06:01:44.265] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-294, y=28, z=-329}
+[26Feb2025 06:01:44.265] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-291, y=27, z=-329}
+[26Feb2025 06:01:44.265] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-297, y=33, z=-333}
+[26Feb2025 06:01:44.266] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-286, y=28, z=-331}
+[26Feb2025 06:01:44.266] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-287, y=33, z=-332}
+[26Feb2025 06:01:45.218] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-376, y=31, z=-419}
+[26Feb2025 06:01:48.543] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-270, y=35, z=-340}
+[26Feb2025 06:01:49.973] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-351, y=30, z=-358}
+[26Feb2025 06:01:49.974] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-348, y=36, z=-361}
+[26Feb2025 06:01:52.751] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-383, y=26, z=-338}
+[26Feb2025 06:01:52.751] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-383, y=26, z=-340}
+[26Feb2025 06:01:52.773] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-376, y=31, z=-339}
+[26Feb2025 06:01:52.773] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-379, y=25, z=-343}
+[26Feb2025 06:01:52.774] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-376, y=32, z=-338}
+[26Feb2025 06:01:53.872] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-272, y=27, z=-357}
+[26Feb2025 06:01:53.908] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-351, y=31, z=-337}
+[26Feb2025 06:01:53.909] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-349, y=30, z=-329}
+[26Feb2025 06:01:53.909] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-348, y=36, z=-334}
+[26Feb2025 06:01:53.917] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-241, y=27, z=-333}
+[26Feb2025 06:01:53.918] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-244, y=27, z=-330}
+[26Feb2025 06:01:53.973] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-351, y=31, z=-337}
+[26Feb2025 06:01:53.973] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-349, y=30, z=-329}
+[26Feb2025 06:01:53.973] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-348, y=36, z=-334}
+[26Feb2025 06:01:54.405] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-343, y=30, z=-333}
+[26Feb2025 06:01:54.508] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-343, y=30, z=-333}
+[26Feb2025 06:02:24.104] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 15KEnzo moved wrongly!

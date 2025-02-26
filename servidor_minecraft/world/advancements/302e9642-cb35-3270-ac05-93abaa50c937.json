@@ -5638,9 +5638,21 @@
     },
     "done": true
   },
+  "croptopia:root": {
+    "criteria": {
+      "root": "2025-02-26 05:54:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/glowstone": {
     "criteria": {
       "has_glowstone_dust": "2025-02-26 05:42:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-02-26 05:59:07 +0000"
     },
     "done": true
   },

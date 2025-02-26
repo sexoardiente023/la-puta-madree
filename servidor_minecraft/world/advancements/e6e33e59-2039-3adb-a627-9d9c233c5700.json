@@ -3484,7 +3484,8 @@
   "recrafted_creatures:unfamiliar_fauna": {
     "criteria": {
       "zebra": "2025-02-25 04:39:36 +0000",
-      "giraffe": "2025-02-25 07:38:25 +0000"
+      "giraffe": "2025-02-25 07:38:25 +0000",
+      "beaver": "2025-02-26 06:01:57 +0000"
     },
     "done": false
   },
@@ -5024,6 +5025,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/use_mercy": {
+    "criteria": {
+      "has_magic_scroll": "2025-02-26 05:58:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/soul_torch": {
     "criteria": {
       "has_soul_sand": "2025-02-26 05:51:31 +0000"
@@ -5087,6 +5094,12 @@
   "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-02-26 05:46:43 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2025-02-26 05:58:15 +0000"
     },
     "done": true
   },

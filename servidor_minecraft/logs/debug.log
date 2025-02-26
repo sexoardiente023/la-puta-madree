@@ -9911,3 +9911,80 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [26Feb2025 05:51:23.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fassetta02 has made the advancement [Bypassing the Expiration Date]
 [26Feb2025 05:54:31.402] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [26Feb2025 05:54:31.411] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Feb2025 05:54:49.064] [Worker-Main-8/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Non-viable branch network detected during world generation @ BlockPos{x=1068, y=115, z=-2051}
+[26Feb2025 05:54:49.064] [Worker-Main-8/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Species: Species{registryName=dynamictrees:oak}
+[26Feb2025 05:54:49.064] [Worker-Main-8/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Radius: 3
+[26Feb2025 05:54:49.064] [Worker-Main-8/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: JoCode: JORJxxxx+XfvV9pfmMJJPbJJP
+[26Feb2025 05:57:17.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fassetta02 has reached the goal [Fighting Nightmares]
+[26Feb2025 05:58:15.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 15KEnzo has made the advancement [Magic Writing]
+[26Feb2025 05:58:31.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 15KEnzo has reached the goal [A self-respecting Soul]
+[26Feb2025 05:59:07.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _valenntinno has made the advancement [A Seedy Place]
+[26Feb2025 05:59:31.392] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Feb2025 05:59:31.400] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Feb2025 06:00:27.803] [Server thread/WARN] [tombstone/]: The death event of the player 15KEnzo was canceled by another mod
+[26Feb2025 06:00:27.811] [Server thread/INFO] [tombstone/]: The player 15KEnzo has successfully been saved
+[26Feb2025 06:00:34.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 15KEnzo was frozen to death by 15KEnzo
+[26Feb2025 06:00:34.466] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for 15KEnzo with unique ID travelersbackpack.standard_26.02.2025-06.00.34.dat
+[26Feb2025 06:00:34.467] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -678 Y: 0 Z: -1445
+[26Feb2025 06:00:34.748] [Server thread/DEBUG] [tombstone/]: A new grave of the player 15KEnzo was created at position [x:-679, y:0, z:-1446, dim:minecraft:overworld]
+[26Feb2025 06:00:34.750] [Server thread/INFO] [tombstone/]: The player 15KEnzo has successfully been saved
+[26Feb2025 06:00:37.088] [Server thread/DEBUG] [twilightforest/]: Player 15KEnzo (e6e33e59-2039-3adb-a627-9d9c233c5700) respawned and received items held in storage
+[26Feb2025 06:01:33.656] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=202, y=47, z=211}
+[26Feb2025 06:01:39.229] [Worker-Main-3/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Non-viable branch network detected during world generation @ BlockPos{x=-378, y=99, z=-159}
+[26Feb2025 06:01:39.229] [Worker-Main-3/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Species: Species{registryName=dynamictrees:oak}
+[26Feb2025 06:01:39.229] [Worker-Main-3/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Radius: 4
+[26Feb2025 06:01:39.229] [Worker-Main-3/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: JoCode: JOKOJxOP166+mhJ7xPc9pOPv1tLL7eNx+vff
+[26Feb2025 06:01:39.230] [Worker-Main-3/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Second attempt for code JOKOJxOP166+mhJ7xPc9pOPv1tLL7eNx+vff has also failed
+[26Feb2025 06:01:40.169] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-227, y=26, z=-310}
+[26Feb2025 06:01:40.169] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-229, y=26, z=-310}
+[26Feb2025 06:01:40.169] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-232, y=26, z=-312}
+[26Feb2025 06:01:40.169] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-229, y=31, z=-312}
+[26Feb2025 06:01:41.210] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-384, y=31, z=-363}
+[26Feb2025 06:01:41.211] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-231, y=25, z=-315}
+[26Feb2025 06:01:44.265] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-289, y=28, z=-334}
+[26Feb2025 06:01:44.265] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-298, y=28, z=-334}
+[26Feb2025 06:01:44.265] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-294, y=28, z=-329}
+[26Feb2025 06:01:44.265] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-291, y=27, z=-329}
+[26Feb2025 06:01:44.265] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-297, y=33, z=-333}
+[26Feb2025 06:01:44.266] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-286, y=28, z=-331}
+[26Feb2025 06:01:44.266] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-287, y=33, z=-332}
+[26Feb2025 06:01:45.218] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-376, y=31, z=-419}
+[26Feb2025 06:01:48.543] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-270, y=35, z=-340}
+[26Feb2025 06:01:49.973] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-351, y=30, z=-358}
+[26Feb2025 06:01:49.974] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-348, y=36, z=-361}
+[26Feb2025 06:01:52.751] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-383, y=26, z=-338}
+[26Feb2025 06:01:52.751] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-383, y=26, z=-340}
+[26Feb2025 06:01:52.773] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-376, y=31, z=-339}
+[26Feb2025 06:01:52.773] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-379, y=25, z=-343}
+[26Feb2025 06:01:52.774] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-376, y=32, z=-338}
+[26Feb2025 06:01:53.872] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-272, y=27, z=-357}
+[26Feb2025 06:01:53.908] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-351, y=31, z=-337}
+[26Feb2025 06:01:53.909] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-349, y=30, z=-329}
+[26Feb2025 06:01:53.909] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-348, y=36, z=-334}
+[26Feb2025 06:01:53.917] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-241, y=27, z=-333}
+[26Feb2025 06:01:53.918] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-244, y=27, z=-330}
+[26Feb2025 06:01:53.973] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-351, y=31, z=-337}
+[26Feb2025 06:01:53.973] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-349, y=30, z=-329}
+[26Feb2025 06:01:53.973] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-348, y=36, z=-334}
+[26Feb2025 06:01:54.405] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-343, y=30, z=-333}
+[26Feb2025 06:01:54.508] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-343, y=30, z=-333}
+[26Feb2025 06:02:00.859] [Worker-Main-5/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Non-viable branch network detected during world generation @ BlockPos{x=1072, y=117, z=-2192}
+[26Feb2025 06:02:00.859] [Worker-Main-5/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Species: Species{registryName=dynamictrees:oak}
+[26Feb2025 06:02:00.859] [Worker-Main-5/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Radius: 5
+[26Feb2025 06:02:00.859] [Worker-Main-5/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: JoCode: JOOJxxOXny8zfndxx797eLx7h9p+WWKx+X188hM9uSvp8khJx6
+[26Feb2025 06:02:00.859] [Worker-Main-5/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Second attempt for code JOOJxxOXny8zfndxx797eLx7h9p+WWKx+X188hM9uSvp8khJx6 has also failed
+[26Feb2025 06:02:01.319] [Worker-Main-2/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Non-viable branch network detected during world generation @ BlockPos{x=1073, y=118, z=-2240}
+[26Feb2025 06:02:01.319] [Worker-Main-2/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Species: Species{registryName=dynamictrees:birch}
+[26Feb2025 06:02:01.319] [Worker-Main-2/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Radius: 3
+[26Feb2025 06:02:01.319] [Worker-Main-2/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: JoCode: JJJJxx1OPvzxx786xx86vkOPXtLP
+[26Feb2025 06:02:01.320] [Worker-Main-2/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Second attempt for code JJJJxx1OPvzxx786xx86vkOPXtLP has also failed
+[26Feb2025 06:02:01.321] [Worker-Main-2/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Non-viable branch network detected during world generation @ BlockPos{x=1072, y=118, z=-2234}
+[26Feb2025 06:02:01.321] [Worker-Main-2/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Species: Species{registryName=dynamictrees:birch}
+[26Feb2025 06:02:01.321] [Worker-Main-2/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Radius: 3
+[26Feb2025 06:02:01.321] [Worker-Main-2/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: JoCode: JJJOJxxxx+Xf0nt767ZP
+[26Feb2025 06:02:01.321] [Worker-Main-2/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Second attempt for code JJJOJxxxx+Xf0nt767ZP has also failed
+[26Feb2025 06:02:12.478] [Worker-Main-11/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/room with rotation NONE at (-763 | 33 | -910)
+[26Feb2025 06:02:12.478] [Worker-Main-11/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/room with rotation NONE at (-763 | 33 | -910)
+[26Feb2025 06:02:24.104] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 15KEnzo moved wrongly!
+[26Feb2025 06:04:31.403] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Feb2025 06:04:31.412] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
