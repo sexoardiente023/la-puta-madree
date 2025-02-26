@@ -5704,6 +5704,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-02-26 07:50:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:basalt_deltas": "2025-02-26 06:51:29 +0000"
@@ -5758,6 +5764,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-02-26 07:50:00 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/dark_oak_cutting_board": {
     "criteria": {
       "has_dark_oak_planks": "2025-02-26 07:03:45 +0000"
@@ -5788,9 +5800,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/decorations/display_case": {
+    "criteria": {
+      "has_item_frame": "2025-02-26 07:29:02 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/dark_oak_mail_box": {
     "criteria": {
       "has_dark_oak_planks": "2025-02-26 07:03:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-02-26 07:19:39 +0000"
     },
     "done": true
   },
@@ -5815,6 +5839,24 @@
   "dungeons_arise:find_heavenly_challenger": {
     "criteria": {
       "location0": "2025-02-26 06:59:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2025-02-26 07:50:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/rib_armor_trim_smithing_template": {
+    "criteria": {
+      "has_rib_armor_trim_smithing_template": "2025-02-26 07:25:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-02-26 07:19:39 +0000"
     },
     "done": true
   },
@@ -5866,9 +5908,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_item_frame": "2025-02-26 07:29:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs": {
+    "criteria": {
+      "has_dark_prismarine": "2025-02-26 07:19:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_button": {
     "criteria": {
       "has_planks": "2025-02-26 07:03:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/rib_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-02-26 07:25:38 +0000"
     },
     "done": true
   },
@@ -5890,9 +5950,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab": {
+    "criteria": {
+      "has_dark_prismarine": "2025-02-26 07:19:39 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/dark_oak_kitchen_storage_cabinet": {
     "criteria": {
       "has_dark_oak_planks": "2025-02-26 07:03:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/honey_block_slide": {
+    "criteria": {
+      "honey_block_slide": "2025-02-26 07:32:22 +0000"
     },
     "done": true
   },
@@ -5929,6 +6001,18 @@
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2025-02-26 06:51:26 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/keypad_item": {
+    "criteria": {
+      "has_stone_button": "2025-02-26 07:30:40 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_lectern": {
+    "criteria": {
+      "has_bookshelf": "2025-02-26 07:27:31 +0000"
     },
     "done": true
   },

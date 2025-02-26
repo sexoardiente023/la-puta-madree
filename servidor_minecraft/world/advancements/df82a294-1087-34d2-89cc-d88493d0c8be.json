@@ -180,6 +180,7 @@
     "criteria": {
       "cooked_porkchop": "2025-02-26 05:38:15 +0000",
       "cooked_beef": "2025-02-25 06:32:40 +0000",
+      "baked_potato": "2025-02-26 07:27:03 +0000",
       "apple": "2025-02-25 04:12:18 +0000",
       "bread": "2025-02-25 03:34:42 +0000",
       "melon_slice": "2025-02-25 03:23:11 +0000"
@@ -674,12 +675,15 @@
       "minecraft:vindicator": "2025-02-26 07:15:08 +0000",
       "minecraft:spider": "2025-02-25 04:13:29 +0000",
       "minecraft:creeper": "2025-02-26 06:18:46 +0000",
+      "minecraft:evoker": "2025-02-26 07:41:28 +0000",
       "minecraft:slime": "2025-02-26 05:41:30 +0000",
       "minecraft:phantom": "2025-02-26 05:36:13 +0000",
+      "minecraft:witch": "2025-02-26 07:45:56 +0000",
       "minecraft:wither_skeleton": "2025-02-26 05:09:28 +0000",
       "minecraft:cave_spider": "2025-02-25 04:19:31 +0000",
       "minecraft:piglin": "2025-02-26 05:16:56 +0000",
       "minecraft:stray": "2025-02-25 04:11:44 +0000",
+      "minecraft:vex": "2025-02-26 07:41:10 +0000",
       "minecraft:zombie": "2025-02-25 03:26:18 +0000",
       "minecraft:zombie_villager": "2025-02-25 06:19:14 +0000"
     },
@@ -5429,6 +5433,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2025-02-26 07:37:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lime_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-02-26 04:48:37 +0000"
@@ -5543,6 +5553,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-02-26 07:17:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/stone_button": {
     "criteria": {
       "has_stone": "2025-02-26 04:43:47 +0000"
@@ -5585,6 +5601,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-02-26 07:37:56 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/fortuitous_militia": {
+    "criteria": {
+      "coded_trigger": "2025-02-26 07:18:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite": {
     "criteria": {
       "has_quartz": "2025-02-26 05:31:34 +0000"
@@ -5618,6 +5646,12 @@
   "morevanillaarmor:recipes/combat/slime_boots": {
     "criteria": {
       "has_the_recipe": "2025-02-26 05:36:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_carved_pumpkin": "2025-02-26 07:27:57 +0000"
     },
     "done": true
   },
@@ -5747,6 +5781,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/cashew_chicken": {
+    "criteria": {
+      "has_cooked_chicken": "2025-02-26 07:37:02 +0000"
+    },
+    "done": true
+  },
   "morevanillaarmor:recipes/combat/slime_chestplate": {
     "criteria": {
       "has_the_recipe": "2025-02-26 05:35:18 +0000"
@@ -5765,6 +5805,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/dark_oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-02-26 07:17:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-02-26 05:17:48 +0000"
@@ -5780,6 +5826,12 @@
   "minecraft:recipes/redstone/slime_block": {
     "criteria": {
       "has_slime_ball": "2025-02-26 05:41:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2025-02-26 07:37:56 +0000"
     },
     "done": true
   },
@@ -6048,6 +6100,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jack_o_lantern": {
+    "criteria": {
+      "has_carved_pumpkin": "2025-02-26 07:27:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2025-02-26 05:55:57 +0000"
@@ -6099,6 +6157,12 @@
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-02-26 04:43:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-02-26 07:17:17 +0000"
     },
     "done": true
   },
@@ -6180,6 +6244,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-02-26 07:21:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-02-26 04:48:37 +0000"
@@ -6189,6 +6259,12 @@
   "croptopia:recipes/campfire_baked_sweet_potato": {
     "criteria": {
       "has_sweetpotato": "2025-02-26 06:33:46 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/sheep_smithing": {
+    "criteria": {
+      "has_sheep": "2025-02-26 07:42:51 +0000"
     },
     "done": true
   },

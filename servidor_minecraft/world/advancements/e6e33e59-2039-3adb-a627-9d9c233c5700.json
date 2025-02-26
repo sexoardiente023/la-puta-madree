@@ -3489,6 +3489,7 @@
   "recrafted_creatures:unfamiliar_fauna": {
     "criteria": {
       "zebra": "2025-02-25 04:39:36 +0000",
+      "orangutan": "2025-02-26 07:43:09 +0000",
       "giraffe": "2025-02-25 07:38:25 +0000",
       "beaver": "2025-02-26 06:01:57 +0000"
     },
@@ -5162,9 +5163,28 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:charm_collector": {
+    "criteria": {
+      "charm_collector_1": "2025-02-26 07:52:39 +0000",
+      "charm_collector_4": "2025-02-26 07:51:21 +0000"
+    },
+    "done": false
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_table": {
+    "criteria": {
+      "has_spruce_planks": "2025-02-26 07:15:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_gold_block": {
     "criteria": {
       "has_gold_block": "2025-02-26 07:14:25 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_kitchen_sink": {
+    "criteria": {
+      "has_spruce_planks": "2025-02-26 07:15:46 +0000"
     },
     "done": true
   },
@@ -5222,6 +5242,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/spruce_kitchen_drawer": {
+    "criteria": {
+      "has_spruce_planks": "2025-02-26 07:15:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_sandstone": {
     "criteria": {
       "has_sandstone": "2025-02-26 06:43:43 +0000"
@@ -5237,6 +5263,12 @@
   "minecraft:recipes/tools/spyglass": {
     "criteria": {
       "has_amethyst_shard": "2025-02-26 06:34:43 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_spruce_planks": "2025-02-26 07:15:46 +0000"
     },
     "done": true
   },
@@ -5312,6 +5344,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2025-02-26 07:15:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_stairs": {
     "criteria": {
       "has_planks": "2025-02-26 07:07:59 +0000"
@@ -5342,6 +5380,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2025-02-26 07:15:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone_stairs": {
     "criteria": {
       "has_sandstone": "2025-02-26 06:43:43 +0000"
@@ -5351,6 +5395,12 @@
   "minecraft:recipes/redstone/dark_oak_door": {
     "criteria": {
       "has_planks": "2025-02-26 07:07:59 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_mail_box": {
+    "criteria": {
+      "has_spruce_planks": "2025-02-26 07:15:46 +0000"
     },
     "done": true
   },
@@ -5378,6 +5428,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-02-26 07:15:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/acacia_sign": {
     "criteria": {
       "has_planks": "2025-02-26 07:10:44 +0000"
@@ -5387,6 +5443,12 @@
   "minecraft:recipes/misc/iron_ingot_from_smelting_iron_ore": {
     "criteria": {
       "has_iron_ore": "2025-02-26 06:53:10 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_crate": {
+    "criteria": {
+      "has_spruce_planks": "2025-02-26 07:15:46 +0000"
     },
     "done": true
   },
@@ -5468,6 +5530,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/rib_armor_trim_smithing_template": {
+    "criteria": {
+      "has_rib_armor_trim_smithing_template": "2025-02-26 07:21:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_prismarine_slab_from_dark_prismarine_stonecutting": {
     "criteria": {
       "has_dark_prismarine": "2025-02-26 07:08:53 +0000"
@@ -5498,6 +5566,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-02-26 07:20:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone_slab": {
     "criteria": {
       "has_sandstone": "2025-02-26 06:43:43 +0000"
@@ -5519,6 +5593,12 @@
   "minecraft:recipes/redstone/acacia_pressure_plate": {
     "criteria": {
       "has_planks": "2025-02-26 07:10:44 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_kitchen_cabinetry": {
+    "criteria": {
+      "has_spruce_planks": "2025-02-26 07:15:46 +0000"
     },
     "done": true
   },
@@ -5570,6 +5650,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2025-02-26 07:15:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/acacia_trapdoor": {
     "criteria": {
       "has_planks": "2025-02-26 07:10:44 +0000"
@@ -5585,6 +5671,12 @@
   "minecraft:recipes/redstone/dark_oak_button": {
     "criteria": {
       "has_planks": "2025-02-26 07:07:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/rib_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-02-26 07:21:39 +0000"
     },
     "done": true
   },
@@ -5648,9 +5740,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2025-02-26 07:15:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_pressure_plate": {
     "criteria": {
       "has_planks": "2025-02-26 07:07:59 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_cutting_board": {
+    "criteria": {
+      "has_spruce_planks": "2025-02-26 07:15:46 +0000"
     },
     "done": true
   },
@@ -5702,9 +5806,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-02-26 07:15:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2025-02-26 07:15:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-02-26 07:15:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/acacia_fence": {
     "criteria": {
       "has_planks": "2025-02-26 07:10:44 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_desk": {
+    "criteria": {
+      "has_spruce_planks": "2025-02-26 07:15:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_chair": {
+    "criteria": {
+      "has_spruce_planks": "2025-02-26 07:15:46 +0000"
     },
     "done": true
   },
@@ -5717,6 +5851,12 @@
   "minecraft:recipes/building_blocks/amethyst_block": {
     "criteria": {
       "has_amethyst_shard": "2025-02-26 06:34:43 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/magma_cube": {
+    "criteria": {
+      "has_magma_cream": "2025-02-26 07:20:23 +0000"
     },
     "done": true
   },
@@ -5741,6 +5881,18 @@
   "refurbished_furniture:recipes/misc/slicing/black_dye_from_wither_rose": {
     "criteria": {
       "has_wither_rose": "2025-02-26 07:11:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2025-02-26 07:15:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_drawer": {
+    "criteria": {
+      "has_spruce_planks": "2025-02-26 07:15:46 +0000"
     },
     "done": true
   },
