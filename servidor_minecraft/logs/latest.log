@@ -1418,3 +1418,10 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [26Feb2025 08:52:46.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 15KEnzo has reached the goal [Dark Creator]
 [26Feb2025 08:52:48.853] [Server thread/WARN] [tombstone/]: The death event of the player 15KEnzo was canceled by another mod
 [26Feb2025 08:52:48.857] [Server thread/INFO] [tombstone/]: The player 15KEnzo has successfully been saved
+[26Feb2025 09:08:12.948] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity RedPanda['COLAPINTO'/169811, l='ServerLevel[world]', x=857.50, y=119.00, z=-2208.00] died: COLAPINTO was slain by Baby Skeleton
+[26Feb2025 09:11:52.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 15KEnzo has reached the goal [Exorcism]
+[26Feb2025 09:13:21.544] [Server thread/WARN] [tombstone/]: The death event of the player _valenntinno was canceled by another mod
+[26Feb2025 09:13:21.550] [Server thread/INFO] [tombstone/]: The player _valenntinno has successfully been saved
+[26Feb2025 09:16:05.472] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 15KEnzo moved wrongly!
+[26Feb2025 09:17:11.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 15KEnzo has reached the goal [Arachnophobe's Nightmare]
+[26Feb2025 09:17:52.933] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
