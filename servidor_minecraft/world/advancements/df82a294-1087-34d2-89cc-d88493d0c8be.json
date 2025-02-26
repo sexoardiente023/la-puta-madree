@@ -177,6 +177,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-02-26 05:38:15 +0000",
       "cooked_beef": "2025-02-25 06:32:40 +0000",
       "apple": "2025-02-25 04:12:18 +0000",
       "bread": "2025-02-25 03:34:42 +0000",
@@ -667,9 +668,14 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-02-25 06:46:39 +0000",
+      "minecraft:blaze": "2025-02-26 05:08:29 +0000",
       "minecraft:skeleton": "2025-02-25 03:53:30 +0000",
       "minecraft:spider": "2025-02-25 04:13:29 +0000",
+      "minecraft:slime": "2025-02-26 05:41:30 +0000",
+      "minecraft:phantom": "2025-02-26 05:36:13 +0000",
+      "minecraft:wither_skeleton": "2025-02-26 05:09:28 +0000",
       "minecraft:cave_spider": "2025-02-25 04:19:31 +0000",
+      "minecraft:piglin": "2025-02-26 05:16:56 +0000",
       "minecraft:stray": "2025-02-25 04:11:44 +0000",
       "minecraft:zombie": "2025-02-25 03:26:18 +0000",
       "minecraft:zombie_villager": "2025-02-25 06:19:14 +0000"
@@ -5281,7 +5287,8 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:soul_sand_valley": "2025-02-25 07:25:38 +0000"
+      "minecraft:soul_sand_valley": "2025-02-25 07:25:38 +0000",
+      "minecraft:basalt_deltas": "2025-02-26 05:28:34 +0000"
     },
     "done": false
   },
@@ -5293,7 +5300,8 @@
   },
   "incendium:misc/soul_searcher": {
     "criteria": {
-      "incendium:weeping_valley": "2025-02-25 07:25:57 +0000"
+      "incendium:weeping_valley": "2025-02-25 07:25:57 +0000",
+      "incendium:toxic_heap": "2025-02-26 05:32:41 +0000"
     },
     "done": false
   },
@@ -5435,6 +5443,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-02-26 05:14:31 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_stone_pressure_plate": {
     "criteria": {
       "has_block": "2025-02-26 04:44:18 +0000"
@@ -5471,6 +5485,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_granite": {
+    "criteria": {
+      "has_quartz": "2025-02-26 05:31:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/stone_button": {
     "criteria": {
       "has_stone": "2025-02-26 04:43:47 +0000"
@@ -5489,9 +5509,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-02-26 05:31:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-02-26 05:31:34 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_chiseled_stone_bricks_from_reinforced_stone_stonecutting": {
     "criteria": {
       "has_reinforced_stone": "2025-02-26 04:44:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-02-26 05:31:34 +0000"
     },
     "done": true
   },
@@ -5501,9 +5539,27 @@
     },
     "done": true
   },
+  "morevanillaarmor:recipes/combat/slime_boots": {
+    "criteria": {
+      "has_the_recipe": "2025-02-26 05:36:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-02-26 04:48:37 +0000"
+    },
+    "done": true
+  },
+  "incendium:misc/loot_piglin_village": {
+    "criteria": {
+      "incendium:medium": "2025-02-26 05:10:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/distract_piglin": {
+    "criteria": {
+      "distract_piglin": "2025-02-26 05:14:46 +0000"
     },
     "done": true
   },
@@ -5513,9 +5569,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2025-02-26 05:29:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/tinted_glass": {
     "criteria": {
       "has_amethyst_shard": "2025-02-26 04:31:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-02-26 05:31:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-02-26 05:10:12 +0000"
+    },
+    "done": true
+  },
+  "incendium:toxic_heap/root": {
+    "criteria": {
+      "requirement": "2025-02-26 05:32:41 +0000"
     },
     "done": true
   },
@@ -5531,9 +5611,33 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/block_pocket_manager": {
+    "criteria": {
+      "has_redstone_block": "2025-02-26 05:10:48 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/stone_stepping_stones": {
     "criteria": {
       "has_stone": "2025-02-26 04:43:47 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/quartz": {
+    "criteria": {
+      "has_quartz": "2025-02-26 05:31:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-02-26 05:17:48 +0000"
+    },
+    "done": true
+  },
+  "morevanillaarmor:recipes/combat/slime_chestplate": {
+    "criteria": {
+      "has_the_recipe": "2025-02-26 05:35:18 +0000"
     },
     "done": true
   },
@@ -5543,9 +5647,33 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/reinforced_sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-02-26 05:41:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-02-26 05:17:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-02-26 04:48:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-02-26 05:41:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2025-02-26 05:17:48 +0000"
     },
     "done": true
   },
@@ -5555,15 +5683,69 @@
     },
     "done": true
   },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-02-26 05:08:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2025-02-26 05:29:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_slime_block": "2025-02-26 05:33:34 +0000"
+    },
+    "done": true
+  },
+  "morevanillaarmor:recipes/combat/slime_leggings": {
+    "criteria": {
+      "has_the_recipe": "2025-02-26 05:38:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
+    "criteria": {
+      "has_warped_fungus": "2025-02-26 05:14:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_stone": "2025-02-26 04:43:47 +0000"
     },
     "done": true
   },
+  "croptopia:recipes/ham_sandwich": {
+    "criteria": {
+      "has_cooked_porkchop": "2025-02-26 05:10:48 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:junior_summoner": {
+    "criteria": {
+      "junior_summoner_0": "2025-02-26 05:05:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-02-26 05:14:31 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_stone_stairs": {
     "criteria": {
       "has_block": "2025-02-26 04:44:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-02-26 05:16:32 +0000"
     },
     "done": true
   },
@@ -5585,9 +5767,33 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/slime_ball_from_slime_block": {
+    "criteria": {
+      "has_slime_block": "2025-02-26 05:33:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_red_mushroom": "2025-02-26 05:14:21 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/root": {
     "criteria": {
       "useitem": "2025-02-26 04:51:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_bricks": "2025-02-26 05:17:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_bricks": "2025-02-26 05:17:48 +0000"
     },
     "done": true
   },
@@ -5597,9 +5803,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/reinforced_observer": {
+    "criteria": {
+      "has_quartz": "2025-02-26 05:31:34 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_smooth_stone": {
     "criteria": {
       "has_item": "2025-02-26 04:44:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-02-26 05:17:48 +0000"
     },
     "done": true
   },
@@ -5609,9 +5827,22 @@
     },
     "done": true
   },
+  "nova_structures:nether/find_nether_skeleton": {
+    "criteria": {
+      "minecraft:fortress": "2025-02-26 05:08:23 +0000",
+      "nova_structures:skeleton_camp_soul": "2025-02-26 05:11:06 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-02-26 04:48:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2025-02-26 05:10:48 +0000"
     },
     "done": true
   },
@@ -5633,15 +5864,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-02-26 05:41:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-02-26 04:48:37 +0000"
     },
     "done": true
   },
+  "born_in_chaos_v1:bypassingthe_expiration_date": {
+    "criteria": {
+      "bypassingthe_expiration_date_0": "2025-02-26 05:51:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_bricks": "2025-02-26 05:17:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-02-26 04:43:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-02-26 05:31:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-02-26 05:31:34 +0000"
     },
     "done": true
   },
@@ -5654,6 +5915,24 @@
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-02-26 04:43:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2025-02-26 05:17:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-02-26 05:41:32 +0000"
+    },
+    "done": true
+  },
+  "incendium:toxic_heap/slime_poison": {
+    "criteria": {
+      "poison": "2025-02-26 05:34:11 +0000"
     },
     "done": true
   },
@@ -5687,6 +5966,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-02-26 05:29:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-02-26 04:48:37 +0000"
@@ -5717,9 +6002,39 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/magma_cube": {
+    "criteria": {
+      "has_magma_cream": "2025-02-26 05:16:32 +0000"
+    },
+    "done": true
+  },
+  "croptopia:root": {
+    "criteria": {
+      "root": "2025-02-26 05:02:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-02-26 05:17:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/raw_iron": {
     "criteria": {
       "has_raw_iron_block": "2025-02-26 04:22:39 +0000"
+    },
+    "done": true
+  },
+  "morevanillaarmor:recipes/combat/slime_helmet": {
+    "criteria": {
+      "has_the_recipe": "2025-02-26 05:35:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_red_mushroom": "2025-02-26 05:14:21 +0000"
     },
     "done": true
   },

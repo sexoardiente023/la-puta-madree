@@ -2845,6 +2845,7 @@
       "minecraft:vindicator": "2025-02-25 07:15:45 +0000",
       "minecraft:spider": "2025-02-25 05:52:45 +0000",
       "minecraft:creeper": "2025-02-25 05:01:28 +0000",
+      "minecraft:wither_skeleton": "2025-02-26 05:08:01 +0000",
       "minecraft:stray": "2025-02-25 05:51:26 +0000",
       "minecraft:zombie": "2025-02-25 05:14:42 +0000",
       "minecraft:drowned": "2025-02-25 06:56:33 +0000",
@@ -5068,9 +5069,45 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/acacia_button": {
+  "tombstone:adventure/fortuitous_militia": {
     "criteria": {
-      "has_planks": "2025-02-26 04:57:15 +0000"
+      "coded_trigger": "2025-02-26 04:23:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-26 04:26:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-26 04:26:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-26 04:26:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-26 04:26:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-26 04:26:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-26 04:26:33 +0000"
     },
     "done": true
   },
@@ -5080,33 +5117,9 @@
     },
     "done": true
   },
-  "croptopia:recipes/misc/fried_calamari": {
-    "criteria": {
-      "has_calamari": "2025-02-26 04:48:41 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/soy_milk": {
-    "criteria": {
-      "has_soybean": "2025-02-26 04:45:32 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/acacia_table": {
-    "criteria": {
-      "has_acacia_planks": "2025-02-26 04:57:15 +0000"
-    },
-    "done": true
-  },
   "croptopia:recipes/misc/corn_seed": {
     "criteria": {
       "has_corn": "2025-02-26 04:37:32 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/acacia_mail_box": {
-    "criteria": {
-      "has_acacia_planks": "2025-02-26 04:57:15 +0000"
     },
     "done": true
   },
@@ -5128,21 +5141,100 @@
     },
     "done": true
   },
-  "croptopia:recipes/tofu": {
+  "croptopia:recipes/campfire_popcorn": {
     "criteria": {
-      "has_soybean": "2025-02-26 04:45:32 +0000"
+      "has_corn": "2025-02-26 04:37:32 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+  "croptopia:recipes/corn_husk": {
     "criteria": {
-      "has_mossy_cobblestone": "2025-02-26 04:26:33 +0000"
+      "has_corn": "2025-02-26 04:37:32 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/candied_nuts": {
+    "criteria": {
+      "has_the_recipe": "2025-02-26 04:37:32 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/candy_corn": {
+    "criteria": {
+      "has_corn": "2025-02-26 04:37:32 +0000"
     },
     "done": true
   },
   "minecraft:recipes/misc/red_dye_from_rose_bush": {
     "criteria": {
       "has_rose_bush": "2025-02-26 04:37:45 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2025-02-26 04:37:45 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-02-26 04:38:36 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/mustard_seed": {
+    "criteria": {
+      "has_mustard": "2025-02-26 04:39:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-02-26 04:40:07 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/soy_milk": {
+    "criteria": {
+      "has_soybean": "2025-02-26 04:45:32 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/tofu": {
+    "criteria": {
+      "has_soybean": "2025-02-26 04:45:32 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/soy_sauce": {
+    "criteria": {
+      "has_soybean": "2025-02-26 04:45:32 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/soybean_seed": {
+    "criteria": {
+      "has_soybean": "2025-02-26 04:45:32 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/lettuce_seed": {
+    "criteria": {
+      "has_lettuce": "2025-02-26 04:45:46 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/cucumber_salad": {
+    "criteria": {
+      "has_lettuce": "2025-02-26 04:45:46 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/caesar_salad": {
+    "criteria": {
+      "has_lettuce": "2025-02-26 04:45:46 +0000",
+      "has_the_recipe": "2025-02-26 04:45:46 +0000"
     },
     "done": true
   },
@@ -5158,6 +5250,138 @@
     },
     "done": true
   },
+  "croptopia:recipes/misc/cabbage_roll": {
+    "criteria": {
+      "has_cabbage": "2025-02-26 04:45:52 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/goulash": {
+    "criteria": {
+      "has_cabbage": "2025-02-26 04:45:52 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_steamed_broccoli": {
+    "criteria": {
+      "has_broccoli": "2025-02-26 04:46:05 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_stir_fry": {
+    "criteria": {
+      "has_broccoli": "2025-02-26 04:46:05 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/broccoli_seed": {
+    "criteria": {
+      "has_broccoli": "2025-02-26 04:46:05 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_beef_stir_fry": {
+    "criteria": {
+      "has_broccoli": "2025-02-26 04:46:05 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/leek_soup": {
+    "criteria": {
+      "has_leek": "2025-02-26 04:47:42 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/leek_seed": {
+    "criteria": {
+      "has_leek": "2025-02-26 04:47:42 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/turmeric_seed": {
+    "criteria": {
+      "has_turmeric": "2025-02-26 04:47:47 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/orange_dye": {
+    "criteria": {
+      "has_turmeric": "2025-02-26 04:47:47 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/fried_calamari": {
+    "criteria": {
+      "has_calamari": "2025-02-26 04:48:41 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/cooked_calamari_from_calamari": {
+    "criteria": {
+      "has_calamari": "2025-02-26 04:48:41 +0000"
+    },
+    "done": true
+  },
+  "croptopia:gather_food": {
+    "criteria": {
+      "calamari": "2025-02-26 04:48:41 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-02-26 04:48:41 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/cooked_calamari_from_smoking_calamari": {
+    "criteria": {
+      "has_calamari": "2025-02-26 04:48:41 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/squid": {
+    "criteria": {
+      "has_ink_sac": "2025-02-26 04:48:41 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crocodile": {
+    "criteria": {
+      "killed_by": "2025-02-26 04:50:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wild_armor_trim_smithing_template": {
+    "criteria": {
+      "has_wild_armor_trim_smithing_template": "2025-02-26 04:52:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wild_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-02-26 04:52:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_button": {
+    "criteria": {
+      "has_planks": "2025-02-26 04:57:15 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_table": {
+    "criteria": {
+      "has_acacia_planks": "2025-02-26 04:57:15 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_mail_box": {
+    "criteria": {
+      "has_acacia_planks": "2025-02-26 04:57:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_stairs": {
     "criteria": {
       "has_planks": "2025-02-26 04:57:15 +0000"
@@ -5167,12 +5391,6 @@
   "refurbished_furniture:recipes/misc/constructing/acacia_cutting_board": {
     "criteria": {
       "has_acacia_planks": "2025-02-26 04:57:15 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/fortuitous_militia": {
-    "criteria": {
-      "coded_trigger": "2025-02-26 04:23:41 +0000"
     },
     "done": true
   },
@@ -5188,87 +5406,9 @@
     },
     "done": true
   },
-  "croptopia:recipes/food/cooked_calamari_from_calamari": {
-    "criteria": {
-      "has_calamari": "2025-02-26 04:48:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
-    "criteria": {
-      "has_mossy_cobblestone": "2025-02-26 04:26:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
-    "criteria": {
-      "has_mossy_cobblestone": "2025-02-26 04:26:33 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/campfire_popcorn": {
-    "criteria": {
-      "has_corn": "2025-02-26 04:37:32 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/misc/turmeric_seed": {
-    "criteria": {
-      "has_turmeric": "2025-02-26 04:47:47 +0000"
-    },
-    "done": true
-  },
-  "croptopia:gather_food": {
-    "criteria": {
-      "calamari": "2025-02-26 04:48:41 +0000"
-    },
-    "done": false
-  },
-  "croptopia:recipes/misc/lettuce_seed": {
-    "criteria": {
-      "has_lettuce": "2025-02-26 04:45:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/black_dye": {
-    "criteria": {
-      "has_ink_sac": "2025-02-26 04:48:41 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/acacia_sign": {
     "criteria": {
       "has_planks": "2025-02-26 04:57:15 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/soy_sauce": {
-    "criteria": {
-      "has_soybean": "2025-02-26 04:45:32 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/leek_soup": {
-    "criteria": {
-      "has_leek": "2025-02-26 04:47:42 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/slicing/red_dye_from_rose_bush": {
-    "criteria": {
-      "has_rose_bush": "2025-02-26 04:37:45 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/misc/orange_dye": {
-    "criteria": {
-      "has_turmeric": "2025-02-26 04:47:47 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/crocodile": {
-    "criteria": {
-      "killed_by": "2025-02-26 04:50:05 +0000"
     },
     "done": true
   },
@@ -5284,63 +5424,9 @@
     },
     "done": true
   },
-  "croptopia:recipes/corn_husk": {
-    "criteria": {
-      "has_corn": "2025-02-26 04:37:32 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/acacia_kitchen_storage_cabinet": {
     "criteria": {
       "has_acacia_planks": "2025-02-26 04:57:15 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/misc/mustard_seed": {
-    "criteria": {
-      "has_mustard": "2025-02-26 04:39:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
-    "criteria": {
-      "has_mossy_cobblestone": "2025-02-26 04:26:33 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/shaped_steamed_broccoli": {
-    "criteria": {
-      "has_broccoli": "2025-02-26 04:46:05 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/candied_nuts": {
-    "criteria": {
-      "has_the_recipe": "2025-02-26 04:37:32 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/shaped_stir_fry": {
-    "criteria": {
-      "has_broccoli": "2025-02-26 04:46:05 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/food/cooked_calamari_from_smoking_calamari": {
-    "criteria": {
-      "has_calamari": "2025-02-26 04:48:41 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/misc/leek_seed": {
-    "criteria": {
-      "has_leek": "2025-02-26 04:47:42 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/candy_corn": {
-    "criteria": {
-      "has_corn": "2025-02-26 04:37:32 +0000"
     },
     "done": true
   },
@@ -5362,21 +5448,9 @@
     },
     "done": true
   },
-  "croptopia:recipes/misc/broccoli_seed": {
-    "criteria": {
-      "has_broccoli": "2025-02-26 04:46:05 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/acacia_trapdoor": {
     "criteria": {
       "has_planks": "2025-02-26 04:57:15 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/seagull_steal": {
-    "criteria": {
-      "ex": "2025-02-26 04:38:36 +0000"
     },
     "done": true
   },
@@ -5386,70 +5460,15 @@
     },
     "done": true
   },
-  "croptopia:recipes/shaped_beef_stir_fry": {
-    "criteria": {
-      "has_broccoli": "2025-02-26 04:46:05 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/misc/cabbage_roll": {
-    "criteria": {
-      "has_cabbage": "2025-02-26 04:45:52 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/acacia_fence_gate": {
     "criteria": {
       "has_planks": "2025-02-26 04:57:15 +0000"
     },
     "done": true
   },
-  "croptopia:recipes/misc/goulash": {
-    "criteria": {
-      "has_cabbage": "2025-02-26 04:45:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/wild_armor_trim_smithing_template": {
-    "criteria": {
-      "has_wild_armor_trim_smithing_template": "2025-02-26 04:52:21 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/cucumber_salad": {
-    "criteria": {
-      "has_lettuce": "2025-02-26 04:45:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/wild_armor_trim_smithing_template_smithing_trim": {
-    "criteria": {
-      "has_smithing_trim_template": "2025-02-26 04:52:21 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/squid": {
-    "criteria": {
-      "has_ink_sac": "2025-02-26 04:48:41 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/acacia_kitchen_cabinetry": {
     "criteria": {
       "has_acacia_planks": "2025-02-26 04:57:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
-    "criteria": {
-      "has_mossy_cobblestone": "2025-02-26 04:26:33 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/caesar_salad": {
-    "criteria": {
-      "has_lettuce": "2025-02-26 04:45:46 +0000",
-      "has_the_recipe": "2025-02-26 04:45:46 +0000"
     },
     "done": true
   },
@@ -5465,21 +5484,219 @@
     },
     "done": true
   },
-  "croptopia:recipes/misc/soybean_seed": {
+  "tombstone:adventure/create_magic_tablet": {
     "criteria": {
-      "has_soybean": "2025-02-26 04:45:32 +0000"
+      "has_magic_tablet": "2025-02-26 05:00:29 +0000"
     },
     "done": true
   },
-  "minecraft:husbandry/plant_seed": {
+  "croptopia:recipes/scrambled_eggs": {
     "criteria": {
-      "wheat": "2025-02-26 04:40:07 +0000"
+      "has_egg": "2025-02-26 05:06:11 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+  "travelersbackpack:recipes/misc/cake": {
     "criteria": {
-      "has_mossy_cobblestone": "2025-02-26 04:26:33 +0000"
+      "has_egg": "2025-02-26 05:06:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-02-26 05:06:11 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/egg_roll": {
+    "criteria": {
+      "has_egg": "2025-02-26 05:06:11 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/meringue": {
+    "criteria": {
+      "has_egg": "2025-02-26 05:06:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-02-26 05:08:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-02-26 05:08:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-02-26 05:08:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-02-26 05:08:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-02-26 05:08:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-02-26 05:08:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-02-26 05:12:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-02-26 05:12:30 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/lapis": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-02-26 05:12:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-02-26 05:17:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-02-26 05:17:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2025-02-26 05:17:58 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2025-02-26 05:20:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-02-26 05:31:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-02-26 05:31:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2025-02-26 05:31:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_bricks": "2025-02-26 05:31:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_bricks": "2025-02-26 05:31:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-02-26 05:31:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_bricks": "2025-02-26 05:31:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2025-02-26 05:31:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-02-26 05:31:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-02-26 05:31:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-02-26 05:31:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2025-02-26 05:32:24 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/block_pocket_manager": {
+    "criteria": {
+      "has_redstone_block": "2025-02-26 05:34:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2025-02-26 05:34:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-02-26 05:45:40 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_voodoo_poppet": {
+    "criteria": {
+      "has_voodoo_poppet": "2025-02-26 05:43:50 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_voodoo_poppet": {
+    "criteria": {
+      "has_enchanted_voodoo_poppet": "2025-02-26 05:43:50 +0000"
     },
     "done": true
   },
