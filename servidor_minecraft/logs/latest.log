@@ -1029,3 +1029,44 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [26Feb2025 06:45:04.169] [Worker-Main-9/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:witch_hut/foundation
 [26Feb2025 06:45:06.550] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 15KEnzo moved wrongly!
 [26Feb2025 06:45:29.392] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[26Feb2025 06:45:50.116] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5740ms or 114 ticks behind
+[26Feb2025 06:46:58.677] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[26Feb2025 06:47:00.590] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 15KEnzo moved wrongly!
+[26Feb2025 06:47:17.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chocolinpy has made the advancement [Ender Distancing]
+[26Feb2025 06:51:14.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <chocolinpy> de diamante no tenes?
+[26Feb2025 06:51:18.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 15KEnzo has made the advancement [Who is Cutting Onions?]
+[26Feb2025 06:51:26.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chocolinpy has made the advancement [We Need to Go Deeper]
+[26Feb2025 06:51:26.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chocolinpy has made the advancement [Incendium]
+[26Feb2025 06:51:28.379] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fassetta02 moved too quickly! 9.009553909051192,1.1661092609382138,4.496485548148485
+[26Feb2025 06:51:28.387] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2111ms or 42 ticks behind
+[26Feb2025 06:51:34.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 15KEnzo has made the advancement [We Need to Go Deeper]
+[26Feb2025 06:51:34.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 15KEnzo has made the advancement [Incendium]
+[26Feb2025 06:52:28.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <15KEnzo> horrible
+[26Feb2025 06:52:36.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <15KEnzo> bioma bien de mierda
+[26Feb2025 06:53:41.362] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=203, y=48, z=159}
+[26Feb2025 06:55:09.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <15KEnzo> hay un waso a ca
+[26Feb2025 06:55:32.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <15KEnzo> ven
+[26Feb2025 06:56:53.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <15KEnzo> la mia es mejor
+[26Feb2025 06:56:55.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <15KEnzo> kjsakjas
+[26Feb2025 06:57:12.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <15KEnzo> f3 mas b
+[26Feb2025 06:57:14.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <15KEnzo> para verlos
+[26Feb2025 06:57:19.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 15KEnzo has reached the goal [Magic Siphoner]
+[26Feb2025 06:59:19.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chocolinpy has made the advancement [The Imperial March]
+[26Feb2025 06:59:32.452] [Server thread/WARN] [tombstone/]: The death event of the player 15KEnzo was canceled by another mod
+[26Feb2025 06:59:32.453] [Server thread/INFO] [tombstone/]: The player 15KEnzo has successfully been saved
+[26Feb2025 06:59:36.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <15KEnzo> a
+[26Feb2025 06:59:42.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <15KEnzo> aguita
+[26Feb2025 07:01:40.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 15KEnzo has completed the challenge [Free Willy]
+[26Feb2025 07:02:16.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 15KEnzo has made the advancement [The Imperial March]
+[26Feb2025 07:02:36.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <15KEnzo> ace agua
+[26Feb2025 07:02:38.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <15KEnzo> infinita
+[26Feb2025 07:03:11.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 15KEnzo has made the advancement [Ambush]
+[26Feb2025 07:04:12.115] [Server thread/WARN] [tombstone/]: The death event of the player chocolinpy was canceled by another mod
+[26Feb2025 07:04:12.119] [Server thread/INFO] [tombstone/]: The player chocolinpy has successfully been saved
+[26Feb2025 07:05:00.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chocolinpy has made the advancement [I slipped]
+[26Feb2025 07:05:13.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chocolinpy was slain by Wither Skeleton
+[26Feb2025 07:05:13.661] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for chocolinpy with unique ID travelersbackpack.standard_26.02.2025-07.05.13.dat
+[26Feb2025 07:05:13.661] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -955 Y: 214 Z: -1857
+[26Feb2025 07:05:14.145] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[26Feb2025 07:05:32.863] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3737ms or 74 ticks behind
+[26Feb2025 07:06:00.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <15KEnzo> moris?
