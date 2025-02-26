@@ -365,3 +365,81 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [26Feb2025 04:31:46.597] [Server thread/WARN] [tombstone/]: The death event of the player 15KEnzo was canceled by another mod
 [26Feb2025 04:31:46.603] [Server thread/INFO] [tombstone/]: The player 15KEnzo has successfully been saved
 [26Feb2025 04:33:41.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 15KEnzo has reached the goal [Horror Under the Mantle]
+[26Feb2025 04:38:36.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chocolinpy has made the advancement [Mine? Mine? Mine?]
+[26Feb2025 04:40:07.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chocolinpy has made the advancement [A Seedy Place]
+[26Feb2025 04:42:29.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 15KEnzo has made the advancement [Junior Summoner]
+[26Feb2025 04:43:55.261] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=817, y=119, z=-2172} BlockPos{x=816, y=119, z=-2172}
+[26Feb2025 04:43:55.311] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=817, y=119, z=-2172} BlockPos{x=816, y=119, z=-2172}
+[26Feb2025 04:43:55.371] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=817, y=119, z=-2172} BlockPos{x=816, y=119, z=-2172}
+[26Feb2025 04:43:55.405] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=817, y=119, z=-2172} BlockPos{x=816, y=119, z=-2172}
+[26Feb2025 04:43:55.455] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=817, y=119, z=-2172} BlockPos{x=816, y=119, z=-2172}
+[26Feb2025 04:43:55.505] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=818, y=119, z=-2172} BlockPos{x=816, y=119, z=-2172}
+[26Feb2025 04:43:55.555] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=818, y=119, z=-2172} BlockPos{x=816, y=119, z=-2172}
+[26Feb2025 04:43:55.600] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=818, y=119, z=-2172} BlockPos{x=816, y=119, z=-2172}
+[26Feb2025 04:43:55.653] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=818, y=119, z=-2172} BlockPos{x=816, y=119, z=-2172}
+[26Feb2025 04:43:56.161] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=819, y=119, z=-2172} BlockPos{x=818, y=119, z=-2172}
+[26Feb2025 04:43:56.211] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=819, y=119, z=-2172} BlockPos{x=818, y=119, z=-2172}
+[26Feb2025 04:43:56.260] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=819, y=119, z=-2172} BlockPos{x=818, y=119, z=-2172}
+[26Feb2025 04:43:56.314] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=819, y=119, z=-2172} BlockPos{x=818, y=119, z=-2172}
+[26Feb2025 04:43:56.467] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=819, y=119, z=-2173} BlockPos{x=819, y=119, z=-2172}
+[26Feb2025 04:43:56.509] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=819, y=119, z=-2173} BlockPos{x=819, y=119, z=-2172}
+[26Feb2025 04:43:56.557] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=819, y=119, z=-2173} BlockPos{x=819, y=119, z=-2172}
+[26Feb2025 04:43:56.601] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=819, y=119, z=-2173} BlockPos{x=819, y=119, z=-2172}
+[26Feb2025 04:43:56.654] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=819, y=119, z=-2173} BlockPos{x=819, y=119, z=-2172}
+[26Feb2025 04:45:37.772] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 15KEnzo lost connection: Disconnected
+[26Feb2025 04:45:37.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 15KEnzo left the game
+[26Feb2025 04:48:18.194] [Worker-Main-10/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:witch_hut/foundation
+[26Feb2025 04:48:18.194] [Worker-Main-10/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:witch_hut/foundation
+[26Feb2025 04:48:18.194] [Worker-Main-10/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:witch_hut/foundation
+[26Feb2025 04:48:18.194] [Worker-Main-10/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:witch_hut/foundation
+[26Feb2025 04:48:18.194] [Worker-Main-10/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:witch_hut/foundation
+[26Feb2025 04:48:18.194] [Worker-Main-10/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:witch_hut/foundation
+[26Feb2025 04:48:18.194] [Worker-Main-10/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:witch_hut/foundation
+[26Feb2025 04:48:18.195] [Worker-Main-10/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:witch_hut/foundation
+[26Feb2025 04:48:18.332] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:witch_hut/foundation
+[26Feb2025 04:48:18.333] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:witch_hut/foundation
+[26Feb2025 04:48:18.333] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:witch_hut/foundation
+[26Feb2025 04:48:18.333] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:witch_hut/foundation
+[26Feb2025 04:48:18.333] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:witch_hut/foundation
+[26Feb2025 04:48:18.333] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:witch_hut/foundation
+[26Feb2025 04:48:18.333] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:witch_hut/foundation
+[26Feb2025 04:48:18.333] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:witch_hut/foundation
+[26Feb2025 04:50:05.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chocolinpy has made the advancement [Chompy]
+[26Feb2025 04:51:26.940] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-270, y=35, z=-340}
+[26Feb2025 04:51:27.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fassetta02 has made the advancement [Alex's Mobs]
+[26Feb2025 04:51:31.239] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-210, y=28, z=-353}
+[26Feb2025 04:51:31.268] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-216, y=28, z=-367}
+[26Feb2025 04:51:31.268] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-210, y=31, z=-363}
+[26Feb2025 04:51:31.269] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-202, y=26, z=-365}
+[26Feb2025 04:51:31.269] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-202, y=26, z=-355}
+[26Feb2025 04:51:31.269] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-207, y=37, z=-354}
+[26Feb2025 04:51:31.307] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-287, y=26, z=-308}
+[26Feb2025 04:51:31.308] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-286, y=25, z=-317}
+[26Feb2025 04:51:31.309] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-274, y=30, z=-334}
+[26Feb2025 04:51:37.032] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-294, y=31, z=-316}
+[26Feb2025 04:51:37.033] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-297, y=25, z=-317}
+[26Feb2025 04:51:37.033] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-292, y=26, z=-305}
+[26Feb2025 04:51:37.033] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-296, y=31, z=-312}
+[26Feb2025 04:51:37.033] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-293, y=31, z=-307}
+[26Feb2025 04:51:37.033] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-294, y=31, z=-306}
+[26Feb2025 04:51:37.054] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-219, y=31, z=-366}
+[26Feb2025 04:51:37.060] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-351, y=31, z=-337}
+[26Feb2025 04:51:37.067] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-343, y=30, z=-333}
+[26Feb2025 04:51:37.068] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-349, y=30, z=-329}
+[26Feb2025 04:51:37.068] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-348, y=36, z=-334}
+[26Feb2025 04:51:37.372] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-392, y=27, z=-305}
+[26Feb2025 04:51:37.373] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-391, y=32, z=-306}
+[26Feb2025 04:51:37.373] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-389, y=27, z=-304}
+[26Feb2025 04:51:37.373] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-383, y=26, z=-308}
+[26Feb2025 04:54:41.609] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 15KEnzo[/127.61.175.194:51443] logged in with entity id 24750 at (-271.46161965427706, 32.0, -1938.4538159352353)
+[26Feb2025 04:54:41.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 15KEnzo joined the game
+[26Feb2025 04:54:41.626] [Server thread/INFO] [Jade/]: Syncing config to 15KEnzo (e6e33e59-2039-3adb-a627-9d9c233c5700)
+[26Feb2025 04:56:29.552] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 15KEnzo lost connection: Disconnected
+[26Feb2025 04:56:29.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 15KEnzo left the game
+[26Feb2025 04:58:41.209] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 15KEnzo[/127.61.175.194:37469] logged in with entity id 26447 at (-301.8242824729954, 31.0, -1939.300000011921)
+[26Feb2025 04:58:41.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 15KEnzo joined the game
+[26Feb2025 04:58:41.233] [Server thread/INFO] [Jade/]: Syncing config to 15KEnzo (e6e33e59-2039-3adb-a627-9d9c233c5700)
+[26Feb2025 05:00:14.276] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: _valenntinno[/127.152.247.5:46997] logged in with entity id 27498 at (834.1737217705399, 120.81470334025373, -2168.298030356235)
+[26Feb2025 05:00:14.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _valenntinno joined the game
+[26Feb2025 05:00:14.335] [Server thread/INFO] [Jade/]: Syncing config to _valenntinno (302e9642-cb35-3270-ac05-93abaa50c937)
+[26Feb2025 05:00:29.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chocolinpy has made the advancement [Where Is The Stone Pen?]

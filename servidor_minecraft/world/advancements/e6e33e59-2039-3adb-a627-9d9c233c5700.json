@@ -208,6 +208,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-02-25 04:48:44 +0000",
+      "cooked_mutton": "2025-02-26 04:32:29 +0000",
       "beef": "2025-02-25 07:29:48 +0000",
       "cooked_cod": "2025-02-25 03:52:08 +0000",
       "mutton": "2025-02-25 07:30:32 +0000",
@@ -4938,21 +4939,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/white_dye": {
-    "criteria": {
-      "has_bone_meal": "2025-02-26 04:28:11 +0000"
-    },
-    "done": true
-  },
   "croptopia:recipes/doughnut": {
     "criteria": {
       "has_flour": "2025-02-26 04:23:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/bone_block": {
-    "criteria": {
-      "has_bone_meal": "2025-02-26 04:28:11 +0000"
     },
     "done": true
   },
@@ -4977,6 +4966,30 @@
   "croptopia:recipes/misc/tortilla": {
     "criteria": {
       "took_flour": "2025-02-26 04:23:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-02-26 04:28:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-02-26 04:28:11 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:horror_underthe_mantle": {
+    "criteria": {
+      "horror_underthe_mantle_0": "2025-02-26 04:33:41 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:junior_summoner": {
+    "criteria": {
+      "junior_summoner_0": "2025-02-26 04:42:29 +0000"
     },
     "done": true
   },

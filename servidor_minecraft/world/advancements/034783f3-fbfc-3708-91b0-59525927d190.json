@@ -4019,12 +4019,20 @@
       "turnip_seed": "2025-02-25 07:01:07 +0000",
       "vanilla_seeds": "2025-02-25 07:01:00 +0000",
       "hops_seed": "2025-02-25 06:22:17 +0000",
+      "pepper_seed": "2025-02-26 04:46:10 +0000",
       "chile_pepper_seed": "2025-02-25 05:27:54 +0000",
       "cabbage_seed": "2025-02-25 05:24:35 +0000",
       "kale_seed": "2025-02-25 07:01:29 +0000",
       "kiwi_seed": "2025-02-25 06:21:56 +0000",
+      "soybean_seed": "2025-02-26 04:45:32 +0000",
+      "leek_seed": "2025-02-26 04:47:43 +0000",
+      "broccoli_seed": "2025-02-26 04:46:05 +0000",
       "barley_seed": "2025-02-25 07:01:24 +0000",
+      "lettuce_seed": "2025-02-26 04:45:44 +0000",
       "squash_seed": "2025-02-25 06:22:15 +0000",
+      "corn_seed": "2025-02-26 04:37:33 +0000",
+      "turmeric_seed": "2025-02-26 04:47:47 +0000",
+      "mustard_seed": "2025-02-26 04:39:20 +0000",
       "zucchini_seed": "2025-02-25 06:22:34 +0000"
     },
     "done": false
@@ -4037,11 +4045,17 @@
   },
   "croptopia:gather_plains": {
     "criteria": {
+      "lettuce_seed": "2025-02-26 04:45:44 +0000",
       "sweetpotato_seed": "2025-02-25 06:24:46 +0000",
+      "pepper_seed": "2025-02-26 04:46:10 +0000",
       "chile_pepper_seed": "2025-02-25 05:27:54 +0000",
       "cabbage_seed": "2025-02-25 05:24:35 +0000",
+      "corn_seed": "2025-02-26 04:37:33 +0000",
+      "broccoli_seed": "2025-02-26 04:46:05 +0000",
+      "mustard_seed": "2025-02-26 04:39:20 +0000",
       "kale_seed": "2025-02-25 07:01:29 +0000",
-      "barley_seed": "2025-02-25 07:01:24 +0000"
+      "barley_seed": "2025-02-25 07:01:24 +0000",
+      "soybean_seed": "2025-02-26 04:45:32 +0000"
     },
     "done": false
   },
@@ -4419,10 +4433,12 @@
   },
   "croptopia:gather_savanna": {
     "criteria": {
+      "leek_seed": "2025-02-26 04:47:43 +0000",
       "hops_seed": "2025-02-25 06:22:17 +0000",
       "squash_seed": "2025-02-25 06:22:15 +0000",
       "zucchini_seed": "2025-02-25 06:22:34 +0000",
-      "kiwi_seed": "2025-02-25 06:21:56 +0000"
+      "kiwi_seed": "2025-02-25 06:21:56 +0000",
+      "turmeric_seed": "2025-02-26 04:47:47 +0000"
     },
     "done": false
   },
@@ -5052,15 +5068,129 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_button": {
+    "criteria": {
+      "has_planks": "2025-02-26 04:57:15 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/popcorn_from_corn": {
+    "criteria": {
+      "has_corn": "2025-02-26 04:37:32 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/fried_calamari": {
+    "criteria": {
+      "has_calamari": "2025-02-26 04:48:41 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/soy_milk": {
+    "criteria": {
+      "has_soybean": "2025-02-26 04:45:32 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_table": {
+    "criteria": {
+      "has_acacia_planks": "2025-02-26 04:57:15 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/corn_seed": {
+    "criteria": {
+      "has_corn": "2025-02-26 04:37:32 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_mail_box": {
+    "criteria": {
+      "has_acacia_planks": "2025-02-26 04:57:15 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/corn_bread": {
+    "criteria": {
+      "has_corn": "2025-02-26 04:37:32 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/popcorn_from_smoking_corn": {
+    "criteria": {
+      "has_corn": "2025-02-26 04:37:32 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_shepherds_pie": {
+    "criteria": {
+      "has_corn": "2025-02-26 04:37:32 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/tofu": {
+    "criteria": {
+      "has_soybean": "2025-02-26 04:45:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2025-02-26 04:26:33 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2025-02-26 04:37:45 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/cabbage_seed": {
+    "criteria": {
+      "has_cabbage": "2025-02-26 04:45:52 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/borscht": {
+    "criteria": {
+      "has_cabbage": "2025-02-26 04:45:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_stairs": {
+    "criteria": {
+      "has_planks": "2025-02-26 04:57:15 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_cutting_board": {
+    "criteria": {
+      "has_acacia_planks": "2025-02-26 04:57:15 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/fortuitous_militia": {
     "criteria": {
       "coded_trigger": "2025-02-26 04:23:41 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2025-02-26 04:57:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_door": {
+    "criteria": {
+      "has_planks": "2025-02-26 04:57:15 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/cooked_calamari_from_calamari": {
+    "criteria": {
+      "has_calamari": "2025-02-26 04:48:41 +0000"
     },
     "done": true
   },
@@ -5076,15 +5206,274 @@
     },
     "done": true
   },
+  "croptopia:recipes/campfire_popcorn": {
+    "criteria": {
+      "has_corn": "2025-02-26 04:37:32 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/turmeric_seed": {
+    "criteria": {
+      "has_turmeric": "2025-02-26 04:47:47 +0000"
+    },
+    "done": true
+  },
+  "croptopia:gather_food": {
+    "criteria": {
+      "calamari": "2025-02-26 04:48:41 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/misc/lettuce_seed": {
+    "criteria": {
+      "has_lettuce": "2025-02-26 04:45:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-02-26 04:48:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_sign": {
+    "criteria": {
+      "has_planks": "2025-02-26 04:57:15 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/soy_sauce": {
+    "criteria": {
+      "has_soybean": "2025-02-26 04:45:32 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/leek_soup": {
+    "criteria": {
+      "has_leek": "2025-02-26 04:47:42 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2025-02-26 04:37:45 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/orange_dye": {
+    "criteria": {
+      "has_turmeric": "2025-02-26 04:47:47 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crocodile": {
+    "criteria": {
+      "killed_by": "2025-02-26 04:50:05 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_kitchen_drawer": {
+    "criteria": {
+      "has_acacia_planks": "2025-02-26 04:57:15 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_kitchen_sink": {
+    "criteria": {
+      "has_acacia_planks": "2025-02-26 04:57:15 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/corn_husk": {
+    "criteria": {
+      "has_corn": "2025-02-26 04:37:32 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_acacia_planks": "2025-02-26 04:57:15 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/mustard_seed": {
+    "criteria": {
+      "has_mustard": "2025-02-26 04:39:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2025-02-26 04:26:33 +0000"
     },
     "done": true
   },
+  "croptopia:recipes/shaped_steamed_broccoli": {
+    "criteria": {
+      "has_broccoli": "2025-02-26 04:46:05 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/candied_nuts": {
+    "criteria": {
+      "has_the_recipe": "2025-02-26 04:37:32 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_stir_fry": {
+    "criteria": {
+      "has_broccoli": "2025-02-26 04:46:05 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/cooked_calamari_from_smoking_calamari": {
+    "criteria": {
+      "has_calamari": "2025-02-26 04:48:41 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/leek_seed": {
+    "criteria": {
+      "has_leek": "2025-02-26 04:47:42 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/candy_corn": {
+    "criteria": {
+      "has_corn": "2025-02-26 04:37:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-02-26 04:57:15 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_drawer": {
+    "criteria": {
+      "has_acacia_planks": "2025-02-26 04:57:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_slab": {
+    "criteria": {
+      "has_planks": "2025-02-26 04:57:15 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/broccoli_seed": {
+    "criteria": {
+      "has_broccoli": "2025-02-26 04:46:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-02-26 04:57:15 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-02-26 04:38:36 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_desk": {
+    "criteria": {
+      "has_acacia_planks": "2025-02-26 04:57:15 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_beef_stir_fry": {
+    "criteria": {
+      "has_broccoli": "2025-02-26 04:46:05 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/cabbage_roll": {
+    "criteria": {
+      "has_cabbage": "2025-02-26 04:45:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-02-26 04:57:15 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/goulash": {
+    "criteria": {
+      "has_cabbage": "2025-02-26 04:45:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wild_armor_trim_smithing_template": {
+    "criteria": {
+      "has_wild_armor_trim_smithing_template": "2025-02-26 04:52:21 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/cucumber_salad": {
+    "criteria": {
+      "has_lettuce": "2025-02-26 04:45:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wild_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-02-26 04:52:21 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/squid": {
+    "criteria": {
+      "has_ink_sac": "2025-02-26 04:48:41 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_kitchen_cabinetry": {
+    "criteria": {
+      "has_acacia_planks": "2025-02-26 04:57:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mossy_cobblestone_wall": {
     "criteria": {
       "has_mossy_cobblestone": "2025-02-26 04:26:33 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/caesar_salad": {
+    "criteria": {
+      "has_lettuce": "2025-02-26 04:45:46 +0000",
+      "has_the_recipe": "2025-02-26 04:45:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_crate": {
+    "criteria": {
+      "has_acacia_planks": "2025-02-26 04:57:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_fence": {
+    "criteria": {
+      "has_planks": "2025-02-26 04:57:15 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/soybean_seed": {
+    "criteria": {
+      "has_soybean": "2025-02-26 04:45:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-02-26 04:40:07 +0000"
     },
     "done": true
   },
