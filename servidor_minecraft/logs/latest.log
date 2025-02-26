@@ -1297,3 +1297,124 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [26Feb2025 08:17:02.865] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
 [26Feb2025 08:17:02.913] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
 [26Feb2025 08:17:02.963] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[26Feb2025 08:18:24.234] [Server thread/WARN] [com.ferreusveritas.dynamictrees.tree.species.Species/]: Block Block{dynamictrees:jungle_undergrowth_leaves} not valid leaves for Species{registryName=dynamictrees:jungle}.
+[26Feb2025 08:19:00.813] [Server thread/WARN] [tombstone/]: The death event of the player chocolinpy was canceled by another mod
+[26Feb2025 08:19:00.844] [Server thread/INFO] [tombstone/]: The player chocolinpy has successfully been saved
+[26Feb2025 08:19:11.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chocolinpy blew up
+[26Feb2025 08:19:11.976] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for chocolinpy with unique ID travelersbackpack.standard_26.02.2025-08.19.11.dat
+[26Feb2025 08:19:11.979] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -781 Y: 72 Z: -1715
+[26Feb2025 08:20:54.113] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2038ms or 40 ticks behind
+[26Feb2025 08:21:54.568] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: _valenntinno lost connection: Disconnected
+[26Feb2025 08:21:54.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _valenntinno left the game
+[26Feb2025 08:22:11.360] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: chocolinpy lost connection: Disconnected
+[26Feb2025 08:22:11.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chocolinpy left the game
+[26Feb2025 08:22:14.803] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fassetta02 lost connection: Disconnected
+[26Feb2025 08:22:14.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fassetta02 left the game
+[26Feb2025 08:22:34.510] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Fassetta02[/127.0.226.122:36047] logged in with entity id 169643 at (806.5585241496728, -42.0, -2177.43277440719)
+[26Feb2025 08:22:34.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fassetta02 joined the game
+[26Feb2025 08:22:34.528] [Server thread/INFO] [Jade/]: Syncing config to Fassetta02 (df82a294-1087-34d2-89cc-d88493d0c8be)
+[26Feb2025 08:22:38.821] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: _valenntinno[/127.152.247.5:47907] logged in with entity id 170022 at (463.69999998807907, 7.0, -2166.5770942431136)
+[26Feb2025 08:22:38.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _valenntinno joined the game
+[26Feb2025 08:22:38.838] [Server thread/INFO] [Jade/]: Syncing config to _valenntinno (302e9642-cb35-3270-ac05-93abaa50c937)
+[26Feb2025 08:22:40.780] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: chocolinpy[/127.247.245.109:53241] logged in with entity id 170169 at (-872.5259780305621, 72.0, -1632.394309925867)
+[26Feb2025 08:22:40.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chocolinpy joined the game
+[26Feb2025 08:22:40.797] [Server thread/INFO] [Jade/]: Syncing config to chocolinpy (034783f3-fbfc-3708-91b0-59525927d190)
+[26Feb2025 08:23:15.130] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/170132, l='ServerLevel[world]', x=606.00, y=64.00, z=-2207.87] died, message: 'Unemployed was shot by Pillager'
+[26Feb2025 08:24:13.115] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-973, y=60, z=-1327} BlockPos{x=-973, y=61, z=-1327}
+[26Feb2025 08:25:07.414] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: _valenntinno lost connection: Disconnected
+[26Feb2025 08:25:07.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _valenntinno left the game
+[26Feb2025 08:26:37.471] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: _valenntinno[/127.152.247.5:40455] logged in with entity id 174469 at (460.82756687142376, 64.0, -2165.0749279907177)
+[26Feb2025 08:26:37.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _valenntinno joined the game
+[26Feb2025 08:26:37.488] [Server thread/INFO] [Jade/]: Syncing config to _valenntinno (302e9642-cb35-3270-ac05-93abaa50c937)
+[26Feb2025 08:26:57.687] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 15KEnzo moved too quickly! -11.09291027428435,-3.218799925235004,-0.26922206917834046
+[26Feb2025 08:26:57.708] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2532ms or 50 ticks behind
+[26Feb2025 08:27:27.633] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 15KEnzo moved too quickly! 4.6954407647913285,0.0,10.06412897991163
+[26Feb2025 08:27:39.723] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=616, y=65, z=-2190} BlockPos{x=615, y=63, z=-2190}
+[26Feb2025 08:27:40.919] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=624, y=65, z=-2187} BlockPos{x=623, y=63, z=-2187}
+[26Feb2025 08:27:42.059] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=627, y=67, z=-2186} BlockPos{x=627, y=65, z=-2186}
+[26Feb2025 08:28:48.870] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-227, y=26, z=-385}
+[26Feb2025 08:28:48.870] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-223, y=26, z=-385}
+[26Feb2025 08:28:56.467] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-267, y=25, z=-307}
+[26Feb2025 08:28:56.467] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-267, y=25, z=-311}
+[26Feb2025 08:28:56.517] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-268, y=25, z=-308}
+[26Feb2025 08:28:56.517] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-270, y=25, z=-307}
+[26Feb2025 08:28:56.852] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-243, y=26, z=-389}
+[26Feb2025 08:28:56.853] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-242, y=26, z=-389}
+[26Feb2025 08:28:56.853] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-242, y=26, z=-388}
+[26Feb2025 08:28:56.853] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-243, y=26, z=-388}
+[26Feb2025 08:28:56.853] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-242, y=26, z=-382}
+[26Feb2025 08:28:56.853] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-243, y=26, z=-382}
+[26Feb2025 08:28:56.853] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-242, y=26, z=-381}
+[26Feb2025 08:28:56.853] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-243, y=26, z=-381}
+[26Feb2025 08:28:57.864] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-254, y=26, z=-379}
+[26Feb2025 08:28:57.864] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-254, y=26, z=-378}
+[26Feb2025 08:28:57.865] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-254, y=26, z=-377}
+[26Feb2025 08:28:57.865] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-253, y=26, z=-379}
+[26Feb2025 08:28:57.865] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-253, y=26, z=-378}
+[26Feb2025 08:28:57.875] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-258, y=26, z=-389}
+[26Feb2025 08:28:57.875] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-257, y=26, z=-389}
+[26Feb2025 08:28:57.875] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-258, y=26, z=-388}
+[26Feb2025 08:28:57.875] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-257, y=26, z=-388}
+[26Feb2025 08:28:57.875] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-244, y=26, z=-389}
+[26Feb2025 08:28:57.875] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-256, y=26, z=-389}
+[26Feb2025 08:28:57.875] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-244, y=26, z=-381}
+[26Feb2025 08:28:57.883] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-326, y=31, z=-331}
+[26Feb2025 08:28:58.079] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-272, y=25, z=-317}
+[26Feb2025 08:28:58.079] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-271, y=25, z=-319}
+[26Feb2025 08:28:58.327] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-227, y=26, z=-310}
+[26Feb2025 08:28:59.871] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-229, y=26, z=-310}
+[26Feb2025 08:28:59.871] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-232, y=26, z=-312}
+[26Feb2025 08:28:59.871] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-231, y=25, z=-315}
+[26Feb2025 08:28:59.871] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-229, y=31, z=-312}
+[26Feb2025 08:28:59.891] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-343, y=30, z=-333}
+[26Feb2025 08:28:59.928] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-326, y=31, z=-339}
+[26Feb2025 08:28:59.928] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-325, y=31, z=-339}
+[26Feb2025 08:28:59.928] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-322, y=26, z=-337}
+[26Feb2025 08:28:59.929] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-327, y=25, z=-340}
+[26Feb2025 08:28:59.929] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-319, y=26, z=-339}
+[26Feb2025 08:28:59.929] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-320, y=25, z=-336}
+[26Feb2025 08:28:59.929] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-319, y=25, z=-336}
+[26Feb2025 08:29:00.312] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-227, y=26, z=-310}
+[26Feb2025 08:29:00.313] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-229, y=26, z=-310}
+[26Feb2025 08:29:00.313] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-232, y=26, z=-312}
+[26Feb2025 08:29:00.313] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-231, y=25, z=-315}
+[26Feb2025 08:29:00.313] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-229, y=31, z=-312}
+[26Feb2025 08:29:00.477] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-349, y=30, z=-329}
+[26Feb2025 08:29:00.489] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-351, y=31, z=-337}
+[26Feb2025 08:29:00.489] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-348, y=36, z=-334}
+[26Feb2025 08:29:01.877] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-323, y=31, z=-358}
+[26Feb2025 08:29:01.931] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-323, y=36, z=-361}
+[26Feb2025 08:29:17.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <chocolinpy> [x:-935, y:229, z:-890, dim:minecraft:overworld]
+[26Feb2025 08:31:12.705] [Worker-Main-8/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[26Feb2025 08:31:12.707] [Worker-Main-8/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[26Feb2025 08:31:12.708] [Worker-Main-8/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[26Feb2025 08:31:12.709] [Worker-Main-8/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[26Feb2025 08:31:13.223] [Worker-Main-14/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[26Feb2025 08:31:13.224] [Worker-Main-14/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[26Feb2025 08:35:33.049] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: chocolinpy lost connection: Disconnected
+[26Feb2025 08:35:33.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chocolinpy left the game
+[26Feb2025 08:35:36.197] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 15KEnzo lost connection: Disconnected
+[26Feb2025 08:35:36.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 15KEnzo left the game
+[26Feb2025 08:35:44.856] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 15KEnzo[/127.61.175.194:53445] logged in with entity id 181088 at (-937.5666445647964, 227.0, -893.3610613030958)
+[26Feb2025 08:35:44.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 15KEnzo joined the game
+[26Feb2025 08:35:44.872] [Server thread/INFO] [Jade/]: Syncing config to 15KEnzo (e6e33e59-2039-3adb-a627-9d9c233c5700)
+[26Feb2025 08:35:46.721] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: chocolinpy[/127.247.245.109:60225] logged in with entity id 181232 at (-930.9285069467063, 237.0, -894.6999999880791)
+[26Feb2025 08:35:46.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chocolinpy joined the game
+[26Feb2025 08:35:46.753] [Server thread/INFO] [Jade/]: Syncing config to chocolinpy (034783f3-fbfc-3708-91b0-59525927d190)
+[26Feb2025 08:38:38.324] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 15KEnzo moved too quickly! 0.0,79.62788577043139,0.0
+[26Feb2025 08:43:28.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chocolinpy has reached the goal [Pumpkin Sir]
+[26Feb2025 08:43:52.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chocolinpy has made the advancement [Best Friends Forever]
+[26Feb2025 08:48:55.956] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 15KEnzo moved too quickly! -5.810971003592613,0.0,-11.011181781754203
+[26Feb2025 08:49:30.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chocolinpy has made the advancement [The Wind Darkening]
+[26Feb2025 08:49:58.351] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[26Feb2025 08:49:58.453] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[26Feb2025 08:49:59.506] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[26Feb2025 08:50:13.308] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[26Feb2025 08:50:13.355] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[26Feb2025 08:50:13.357] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[26Feb2025 08:50:13.452] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[26Feb2025 08:50:14.453] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[26Feb2025 08:52:46.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 15KEnzo has made the advancement [Voluntary Exile]
+[26Feb2025 08:52:46.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 15KEnzo has reached the goal [Dark Creator]
+[26Feb2025 08:52:48.853] [Server thread/WARN] [tombstone/]: The death event of the player 15KEnzo was canceled by another mod
+[26Feb2025 08:52:48.857] [Server thread/INFO] [tombstone/]: The player 15KEnzo has successfully been saved
