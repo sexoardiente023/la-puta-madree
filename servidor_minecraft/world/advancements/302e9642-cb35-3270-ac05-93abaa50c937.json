@@ -5058,7 +5058,8 @@
   },
   "nova_structures:adventure/find_all_illager_structures": {
     "criteria": {
-      "illager_manor": "2025-02-25 06:51:49 +0000"
+      "illager_manor": "2025-02-25 06:51:49 +0000",
+      "illager_camp": "2025-02-26 07:58:31 +0000"
     },
     "done": false
   },
@@ -5449,6 +5450,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/food/cooked_calamari_from_glowing_calamari": {
+    "criteria": {
+      "has_glowing_calamari": "2025-02-26 08:01:47 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/cherry_crate": {
     "criteria": {
       "has_cherry_planks": "2025-02-26 05:51:49 +0000"
@@ -5532,6 +5539,12 @@
       "has_cherry_planks": "2025-02-26 05:51:49 +0000"
     },
     "done": true
+  },
+  "croptopia:gather_food": {
+    "criteria": {
+      "glowing_calamari": "2025-02-26 08:01:47 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/black_bed": {
     "criteria": {
@@ -5674,6 +5687,12 @@
   "minecraft:recipes/building_blocks/cherry_slab": {
     "criteria": {
       "has_planks": "2025-02-26 05:51:49 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/cooked_calamari_from_smoking_glowing_calamari": {
+    "criteria": {
+      "has_glowing_calamari": "2025-02-26 08:01:47 +0000"
     },
     "done": true
   },

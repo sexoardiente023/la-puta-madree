@@ -4835,7 +4835,18 @@
   },
   "croptopia:gather_all": {
     "criteria": {
-      "vanilla_seeds": "2025-02-25 07:04:42 +0000"
+      "sweetpotato_seed": "2025-02-26 08:04:33 +0000",
+      "vanilla_seeds": "2025-02-25 07:04:42 +0000",
+      "pepper_seed": "2025-02-26 08:04:29 +0000",
+      "chile_pepper_seed": "2025-02-26 08:04:34 +0000",
+      "cabbage_seed": "2025-02-26 08:04:30 +0000",
+      "kale_seed": "2025-02-26 08:04:32 +0000",
+      "soybean_seed": "2025-02-26 08:04:33 +0000",
+      "leek_seed": "2025-02-26 08:04:37 +0000",
+      "broccoli_seed": "2025-02-26 08:04:36 +0000",
+      "lettuce_seed": "2025-02-26 08:04:37 +0000",
+      "corn_seed": "2025-02-26 08:04:35 +0000",
+      "mustard_seed": "2025-02-26 08:04:31 +0000"
     },
     "done": false
   },
@@ -5182,6 +5193,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_chestplate_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-26 07:57:39 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/spruce_kitchen_sink": {
     "criteria": {
       "has_spruce_planks": "2025-02-26 07:15:46 +0000"
@@ -5209,6 +5226,12 @@
   "incendium:root": {
     "criteria": {
       "requirement": "2025-02-26 06:51:34 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/soy_milk": {
+    "criteria": {
+      "has_soybean": "2025-02-26 08:04:31 +0000"
     },
     "done": true
   },
@@ -5260,9 +5283,21 @@
     },
     "done": true
   },
+  "croptopia:recipes/tofu": {
+    "criteria": {
+      "has_soybean": "2025-02-26 08:04:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/spyglass": {
     "criteria": {
       "has_amethyst_shard": "2025-02-26 06:34:43 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/cabbage_seed": {
+    "criteria": {
+      "has_cabbage": "2025-02-26 08:04:30 +0000"
     },
     "done": true
   },
@@ -5287,6 +5322,12 @@
   "refurbished_furniture:recipes/misc/constructing/dark_oak_drawer": {
     "criteria": {
       "has_dark_oak_planks": "2025-02-26 07:07:59 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/borscht": {
+    "criteria": {
+      "has_cabbage": "2025-02-26 08:04:30 +0000"
     },
     "done": true
   },
@@ -5368,6 +5409,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_helmet_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-26 07:57:39 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/slicing/light_gray_dye_from_azure_bluet": {
     "criteria": {
       "has_azure_bluet": "2025-02-26 06:58:25 +0000"
@@ -5416,6 +5463,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_boots_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-26 07:57:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cyan_glazed_terracotta": {
     "criteria": {
       "has_cyan_terracotta": "2025-02-26 07:11:25 +0000"
@@ -5425,6 +5478,12 @@
   "minecraft:recipes/decorations/light_gray_bed": {
     "criteria": {
       "has_light_gray_wool": "2025-02-26 07:10:22 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/netherite": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-26 07:57:39 +0000"
     },
     "done": true
   },
@@ -5464,9 +5523,21 @@
     },
     "done": true
   },
+  "croptopia:recipes/soy_sauce": {
+    "criteria": {
+      "has_soybean": "2025-02-26 08:04:31 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/magic_siphoner": {
     "criteria": {
       "coded_trigger": "2025-02-26 06:57:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_axe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-26 07:57:39 +0000"
     },
     "done": true
   },
@@ -5475,6 +5546,12 @@
       "has_sandstone": "2025-02-26 06:43:43 +0000"
     },
     "done": true
+  },
+  "born_in_chaos_v1:squireofthe_dark_lord": {
+    "criteria": {
+      "squireofthe_dark_lord_4": "2025-02-26 08:08:45 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
     "criteria": {
@@ -5533,6 +5610,12 @@
   "minecraft:recipes/misc/rib_armor_trim_smithing_template": {
     "criteria": {
       "has_rib_armor_trim_smithing_template": "2025-02-26 07:21:39 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/netherite_tier_upgrade": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-26 07:57:39 +0000"
     },
     "done": true
   },
@@ -5608,9 +5691,21 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:lifeturnedouttobeacomedy": {
+    "criteria": {
+      "lifeturnedouttobeacomedy_0": "2025-02-26 08:08:44 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_tinted_glass": {
     "criteria": {
       "has_amethyst_shard": "2025-02-26 06:34:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_sword_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-26 07:57:39 +0000"
     },
     "done": true
   },
@@ -5623,6 +5718,12 @@
   "minecraft:recipes/misc/iron_ingot_from_blasting_iron_ore": {
     "criteria": {
       "has_iron_ore": "2025-02-26 06:53:10 +0000"
+    },
+    "done": true
+  },
+  "enchantinginfuser:recipes/decorations/advanced_enchanting_infuser": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-26 07:57:39 +0000"
     },
     "done": true
   },
@@ -5656,6 +5757,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_leggings_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-26 07:57:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/acacia_trapdoor": {
     "criteria": {
       "has_planks": "2025-02-26 07:10:44 +0000"
@@ -5677,6 +5784,12 @@
   "minecraft:recipes/misc/rib_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2025-02-26 07:21:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_hoe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-26 07:57:39 +0000"
     },
     "done": true
   },
@@ -5716,6 +5829,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/misc/cabbage_roll": {
+    "criteria": {
+      "has_cabbage": "2025-02-26 08:04:30 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/create_familiar_receptacle": {
     "criteria": {
       "has_receptacle_of_familiar": "2025-02-26 07:11:10 +0000"
@@ -5746,6 +5865,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/lodestone": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-26 07:57:39 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/goulash": {
+    "criteria": {
+      "has_cabbage": "2025-02-26 08:04:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_pressure_plate": {
     "criteria": {
       "has_planks": "2025-02-26 07:07:59 +0000"
@@ -5770,9 +5901,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/netherite_block": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-26 07:57:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
     "criteria": {
       "has_azure_bluet": "2025-02-26 06:58:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_shovel_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-26 07:57:39 +0000"
     },
     "done": true
   },
@@ -5824,6 +5967,12 @@
     },
     "done": true
   },
+  "croptopia:gather_savanna": {
+    "criteria": {
+      "leek_seed": "2025-02-26 08:04:37 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/acacia_fence": {
     "criteria": {
       "has_planks": "2025-02-26 07:10:44 +0000"
@@ -5854,6 +6003,21 @@
     },
     "done": true
   },
+  "croptopia:gather_plains": {
+    "criteria": {
+      "lettuce_seed": "2025-02-26 08:04:37 +0000",
+      "sweetpotato_seed": "2025-02-26 08:04:33 +0000",
+      "pepper_seed": "2025-02-26 08:04:29 +0000",
+      "chile_pepper_seed": "2025-02-26 08:04:34 +0000",
+      "cabbage_seed": "2025-02-26 08:04:30 +0000",
+      "corn_seed": "2025-02-26 08:04:35 +0000",
+      "broccoli_seed": "2025-02-26 08:04:36 +0000",
+      "mustard_seed": "2025-02-26 08:04:31 +0000",
+      "kale_seed": "2025-02-26 08:04:32 +0000",
+      "soybean_seed": "2025-02-26 08:04:33 +0000"
+    },
+    "done": false
+  },
   "travelersbackpack:recipes/misc/magma_cube": {
     "criteria": {
       "has_magma_cream": "2025-02-26 07:20:23 +0000"
@@ -5863,6 +6027,12 @@
   "minecraft:recipes/decorations/light_gray_banner": {
     "criteria": {
       "has_light_gray_wool": "2025-02-26 07:10:22 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/soybean_seed": {
+    "criteria": {
+      "has_soybean": "2025-02-26 08:04:31 +0000"
     },
     "done": true
   },
@@ -5881,6 +6051,12 @@
   "refurbished_furniture:recipes/misc/slicing/black_dye_from_wither_rose": {
     "criteria": {
       "has_wither_rose": "2025-02-26 07:11:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_pickaxe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-26 07:57:39 +0000"
     },
     "done": true
   },
