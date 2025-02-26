@@ -100,6 +100,7 @@
   },
   "croptopia:gather_all": {
     "criteria": {
+      "sweetpotato_seed": "2025-02-26 06:33:45 +0000",
       "pepper_seed": "2025-02-25 07:06:46 +0000",
       "basil_seed": "2025-02-25 03:21:33 +0000",
       "rhubarb_seed": "2025-02-25 03:21:33 +0000"
@@ -671,6 +672,7 @@
       "minecraft:blaze": "2025-02-26 05:08:29 +0000",
       "minecraft:skeleton": "2025-02-25 03:53:30 +0000",
       "minecraft:spider": "2025-02-25 04:13:29 +0000",
+      "minecraft:creeper": "2025-02-26 06:18:46 +0000",
       "minecraft:slime": "2025-02-26 05:41:30 +0000",
       "minecraft:phantom": "2025-02-26 05:36:13 +0000",
       "minecraft:wither_skeleton": "2025-02-26 05:09:28 +0000",
@@ -5191,7 +5193,8 @@
   },
   "croptopia:gather_plains": {
     "criteria": {
-      "pepper_seed": "2025-02-25 07:06:46 +0000"
+      "pepper_seed": "2025-02-25 07:06:46 +0000",
+      "sweetpotato_seed": "2025-02-26 06:33:45 +0000"
     },
     "done": false
   },
@@ -5479,6 +5482,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-02-26 06:20:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/spyglass": {
     "criteria": {
       "has_amethyst_shard": "2025-02-26 04:31:55 +0000"
@@ -5509,6 +5518,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_copper": {
+    "criteria": {
+      "has_copper_block": "2025-02-26 06:20:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/stone_pressure_plate": {
     "criteria": {
       "has_stone": "2025-02-26 04:43:47 +0000"
@@ -5521,6 +5536,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/food/baked_sweet_potato_from_smoking_sweetpotato": {
+    "criteria": {
+      "has_sweetpotato": "2025-02-26 06:33:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite": {
     "criteria": {
       "has_quartz": "2025-02-26 05:31:34 +0000"
@@ -5530,6 +5551,12 @@
   "minecraft:recipes/building_blocks/granite": {
     "criteria": {
       "has_quartz": "2025-02-26 05:31:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
+    "criteria": {
+      "has_copper_block": "2025-02-26 06:20:51 +0000"
     },
     "done": true
   },
@@ -5608,6 +5635,12 @@
   "incendium:toxic_heap/root": {
     "criteria": {
       "requirement": "2025-02-26 05:32:41 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/baked_sweet_potato_from_sweetpotato": {
+    "criteria": {
+      "has_sweetpotato": "2025-02-26 06:33:46 +0000"
     },
     "done": true
   },
@@ -5710,6 +5743,12 @@
   "minecraft:recipes/misc/slime_ball": {
     "criteria": {
       "has_slime_block": "2025-02-26 05:33:34 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/sweet_potato_fries": {
+    "criteria": {
+      "has_sweetpotatos": "2025-02-26 06:33:46 +0000"
     },
     "done": true
   },
@@ -5876,6 +5915,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_copper_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-02-26 06:20:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-02-26 04:48:37 +0000"
@@ -5936,6 +5981,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot": {
+    "criteria": {
+      "has_copper_block": "2025-02-26 06:20:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-02-26 04:43:47 +0000"
@@ -5957,6 +6008,12 @@
   "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
       "has_slime_ball": "2025-02-26 05:41:32 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/sweetpotato_seed": {
+    "criteria": {
+      "has_sweetpotato": "2025-02-26 06:33:46 +0000"
     },
     "done": true
   },
@@ -5993,6 +6050,12 @@
   "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-02-26 04:48:37 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/campfire_baked_sweet_potato": {
+    "criteria": {
+      "has_sweetpotato": "2025-02-26 06:33:46 +0000"
     },
     "done": true
   },
@@ -6065,6 +6128,12 @@
   "morevanillaarmor:recipes/combat/slime_helmet": {
     "criteria": {
       "has_the_recipe": "2025-02-26 05:35:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-02-26 06:20:51 +0000"
     },
     "done": true
   },

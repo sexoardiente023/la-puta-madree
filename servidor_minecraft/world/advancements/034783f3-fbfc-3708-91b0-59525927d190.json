@@ -60,6 +60,7 @@
       "minecraft:sparse_jungle": "2025-02-25 05:11:11 +0000",
       "minecraft:river": "2025-02-25 04:18:19 +0000",
       "minecraft:lukewarm_ocean": "2025-02-25 06:04:09 +0000",
+      "minecraft:stony_shore": "2025-02-26 06:23:20 +0000",
       "minecraft:forest": "2025-02-25 04:11:37 +0000",
       "minecraft:jungle": "2025-02-25 04:04:37 +0000",
       "minecraft:ocean": "2025-02-25 04:23:59 +0000",
@@ -2846,6 +2847,7 @@
       "minecraft:spider": "2025-02-25 05:52:45 +0000",
       "minecraft:creeper": "2025-02-25 05:01:28 +0000",
       "minecraft:wither_skeleton": "2025-02-26 05:08:01 +0000",
+      "minecraft:husk": "2025-02-26 06:29:04 +0000",
       "minecraft:stray": "2025-02-25 05:51:26 +0000",
       "minecraft:zombie": "2025-02-25 05:14:42 +0000",
       "minecraft:drowned": "2025-02-25 06:56:33 +0000",
@@ -5682,6 +5684,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2025-02-26 06:15:42 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/emu": {
+    "criteria": {
+      "killed_by": "2025-02-26 06:18:05 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_tavern": {
+    "criteria": {
+      "nova_structures:tavern_oak": "2025-02-26 06:25:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
       "has_netherrack": "2025-02-26 05:45:40 +0000"
@@ -5691,6 +5711,12 @@
   "tombstone:adventure/create_voodoo_poppet": {
     "criteria": {
       "has_voodoo_poppet": "2025-02-26 05:43:50 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:root": {
+    "criteria": {
+      "nova_structures:adventure/find_tavern": "2025-02-26 06:25:21 +0000"
     },
     "done": true
   },
