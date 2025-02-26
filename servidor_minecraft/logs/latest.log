@@ -1425,3 +1425,27 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [26Feb2025 09:16:05.472] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 15KEnzo moved wrongly!
 [26Feb2025 09:17:11.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 15KEnzo has reached the goal [Arachnophobe's Nightmare]
 [26Feb2025 09:17:52.933] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[26Feb2025 09:18:10.550] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2625ms or 52 ticks behind
+[26Feb2025 09:18:55.636] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[26Feb2025 09:19:06.437] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[26Feb2025 09:19:10.121] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[26Feb2025 09:19:13.559] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[26Feb2025 09:19:14.512] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[26Feb2025 09:23:05.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chocolinpy has made the advancement [Who is Cutting Onions?]
+[26Feb2025 09:25:40.916] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fassetta02 lost connection: Disconnected
+[26Feb2025 09:25:40.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fassetta02 left the game
+[26Feb2025 09:27:41.884] [Worker-Main-11/FATAL] [twilightforest/]: Did not find boss room from exit 3 - EPIC FAIL
+[26Feb2025 09:27:44.371] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: _valenntinno moved too quickly! -9.879677796246142,-1.9642517098257741,1.4857980452056836
+[26Feb2025 09:27:44.386] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3010ms or 60 ticks behind
+[26Feb2025 09:27:46.461] [Worker-Main-5/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:witch_hut/foundation
+[26Feb2025 09:27:46.462] [Worker-Main-5/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:witch_hut/foundation
+[26Feb2025 09:27:46.462] [Worker-Main-5/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:witch_hut/foundation
+[26Feb2025 09:27:46.462] [Worker-Main-5/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:witch_hut/foundation
+[26Feb2025 09:27:46.462] [Worker-Main-5/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:witch_hut/foundation
+[26Feb2025 09:27:46.462] [Worker-Main-5/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:witch_hut/foundation
+[26Feb2025 09:27:46.462] [Worker-Main-5/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:witch_hut/foundation
+[26Feb2025 09:27:46.462] [Worker-Main-5/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:witch_hut/foundation
+[26Feb2025 09:27:46.462] [Worker-Main-5/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:witch_hut/foundation
+[26Feb2025 09:27:46.462] [Worker-Main-5/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:witch_hut/foundation
+[26Feb2025 09:27:46.462] [Worker-Main-5/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:witch_hut/foundation
+[26Feb2025 09:27:48.061] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: _valenntinno moved too quickly! -6.871943011311714,-7.551875140617838,0.6067064575954646

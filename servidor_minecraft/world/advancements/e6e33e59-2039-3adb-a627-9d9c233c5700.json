@@ -3495,6 +3495,7 @@
   "recrafted_creatures:unfamiliar_fauna": {
     "criteria": {
       "zebra": "2025-02-25 04:39:36 +0000",
+      "chameleon": "2025-02-26 09:15:50 +0000",
       "orangutan": "2025-02-26 07:43:09 +0000",
       "owl": "2025-02-26 08:40:26 +0000",
       "giraffe": "2025-02-25 07:38:25 +0000",
@@ -6170,9 +6171,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-02-26 09:17:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/voluntary_exile": {
     "criteria": {
       "voluntary_exile": "2025-02-26 08:52:46 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:arachnophobes_nightmare": {
+    "criteria": {
+      "arachnophobes_nightmare_0": "2025-02-26 09:17:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-02-26 09:17:30 +0000"
     },
     "done": true
   },
@@ -6195,6 +6214,18 @@
       "trickor_treat_7": "2025-02-26 08:44:15 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-02-26 09:17:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-02-26 09:17:30 +0000"
+    },
+    "done": true
   },
   "born_in_chaos_v1:exorcism": {
     "criteria": {

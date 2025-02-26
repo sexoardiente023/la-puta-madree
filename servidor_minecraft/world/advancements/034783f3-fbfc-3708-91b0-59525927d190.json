@@ -6409,9 +6409,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-02-26 09:25:22 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/pumpkin_soup": {
+    "criteria": {
+      "has_pumpkin": "2025-02-26 09:20:45 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/pumpkin": {
+    "criteria": {
+      "has_pumpkin": "2025-02-26 09:20:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2025-02-26 09:20:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
       "tamed_animal": "2025-02-26 08:43:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-02-26 09:25:22 +0000"
     },
     "done": true
   },
@@ -6427,6 +6457,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-02-26 09:23:05 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:trickor_treat": {
     "criteria": {
       "trickor_treat_0": "2025-02-26 08:43:29 +0000",
@@ -6438,15 +6474,39 @@
     },
     "done": false
   },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-02-26 09:20:45 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/misc/food_press": {
     "criteria": {
       "has_hopper": "2025-02-26 08:38:50 +0000"
     },
     "done": true
   },
+  "croptopia:recipes/misc/pumpkin_bars": {
+    "criteria": {
+      "has_pumpkin": "2025-02-26 09:20:45 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:pumpkin_sir": {
     "criteria": {
       "pumpkin_sir_0": "2025-02-26 08:43:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2025-02-26 09:23:05 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/pumpkin_seeds_from_pumpkin": {
+    "criteria": {
+      "has_pumpkin": "2025-02-26 09:20:45 +0000"
     },
     "done": true
   },
