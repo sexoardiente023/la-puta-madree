@@ -2308,7 +2308,9 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:blaze": "2025-02-26 05:20:39 +0000",
+      "minecraft:pillager": "2025-02-26 07:14:22 +0000",
       "minecraft:skeleton": "2025-02-25 03:53:48 +0000",
+      "minecraft:vindicator": "2025-02-26 07:14:43 +0000",
       "minecraft:spider": "2025-02-25 04:13:18 +0000",
       "minecraft:creeper": "2025-02-25 04:07:47 +0000",
       "minecraft:slime": "2025-02-26 05:34:20 +0000",
@@ -5572,6 +5574,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-02-26 07:13:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/cherry_trapdoor": {
     "criteria": {
       "has_planks": "2025-02-26 05:51:49 +0000"
@@ -5581,6 +5589,12 @@
   "minecraft:recipes/redstone/cherry_button": {
     "criteria": {
       "has_planks": "2025-02-26 05:51:49 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald": "2025-02-26 07:13:50 +0000"
     },
     "done": true
   },
@@ -5617,6 +5631,12 @@
   "incendium:toxic_heap/slime_poison": {
     "criteria": {
       "poison": "2025-02-26 05:33:58 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-02-26 07:14:22 +0000"
     },
     "done": true
   },
